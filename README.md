@@ -1,5 +1,5 @@
-# 漏洞收集
-2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了100多个poc/exp，善用CTRL+F搜索
+# 漏洞文库
+将POC库中的poc/exp 使用docsify分类整理
 
 ## 2023.12.28 新增漏洞
 - wordpress listingo 文件上传漏洞
