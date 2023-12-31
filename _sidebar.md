@@ -173,7 +173,7 @@
 - RuoYi
   - [RuoYi4.6.0_SQL注入漏洞CVE-2023-49371](RuoYi4.6.0_SQL注入漏洞CVE-2023-49371.md)
 - 路由器
-  - [TP-LINKTL-WR940N 命令执行漏洞_CVE-2023-33538](TP-LINKTL-WR940N 命令执行漏洞_CVE-2023-33538.md)
+  - [TP-LINKTL-WR940N_命令执行漏洞_CVE-2023-33538](TP-LINKTL-WR940N_命令执行漏洞_CVE-2023-33538.md)
   - [TOTOLINK_A3700R命令执行漏洞CVE-2023-46574](TOTOLINK_A3700R命令执行漏洞CVE-2023-46574.md)
   - [Tenda路由器账号密码泄露](Tenda路由器账号密码泄露.md)
 - 亿赛通
