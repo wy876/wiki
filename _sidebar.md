@@ -130,8 +130,6 @@
 - JeecgBoot
   - [JeecgBoot漏洞](JeecgBoot漏洞.md)
 
-- [JAVA_Public_CMS_后台RCE漏洞](JAVA_Public_CMS_后台RCE漏洞.md)
-
 - iDocView
   - [I_Doc_View任意文件上传漏洞](I_Doc_View任意文件上传漏洞.md)
   - [iDocView_upload接口任意文件读取](iDocView_upload接口任意文件读取.md)
@@ -382,5 +380,5 @@
 - [Panel_loadfile_后台文件读取漏洞](Panel_loadfile_后台文件读取漏洞.md)
 - [pyLoad远程代码执行漏洞](pyLoad远程代码执行漏洞.md)
 - [QQ客户端存在远程命令执行漏洞](QQ客户端存在远程命令执行漏洞.md)
-
+- [JAVA_Public_CMS_后台RCE漏洞](JAVA_Public_CMS_后台RCE漏洞.md)
 
