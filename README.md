@@ -1,6 +1,9 @@
 # 漏洞文库
 将POC库中的poc/exp 使用docsify分类整理
 
+## 2023.12.31 新增漏洞
+- OfficeWeb365_任意文件读取漏洞
+
 ## 2023.12.28 新增漏洞
 - wordpress listingo 文件上传漏洞
 - Apache OFBiz 身份验证绕过漏洞 (CVE-2023-51467)
