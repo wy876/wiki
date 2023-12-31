@@ -281,7 +281,7 @@
 
 - OfficeWeb365
   - [OfficeWeb365_文件上传漏洞](OfficeWeb365_文件上传漏洞.md)
-  - [OfficeWeb365_任意文件读取漏洞复现](OfficeWeb365_任意文件读取漏洞复现.md)
+  - [OfficeWeb365_任意文件读取漏洞](OfficeWeb365_任意文件读取漏洞.md)
 
 - SysAid
   - [SysAid远程命令执行漏洞（CVE-2023-47246）](SysAid远程命令执行漏洞（CVE-2023-47246）.md)
