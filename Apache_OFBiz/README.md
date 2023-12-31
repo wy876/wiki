@@ -1,0 +1,3 @@
+- Apache_OFBiz_SSRF_&&_任意配置读取
+- Apache_Ofbiz_XML-RPC_CVE-2023-49070
+- Apache_OFBiz_身份验证绕过漏洞(CVE-2023-51467)
