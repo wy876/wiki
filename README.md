@@ -1,5 +1,5 @@
 # 漏洞文库
-将POC库中的poc/exp 使用docsify分类整理
+将https://github.com/wy876/POC中的poc/exp 使用docsify分类整理，方便查看
 
 ## 2023.12.31 新增漏洞
 - OfficeWeb365_任意文件读取漏洞
