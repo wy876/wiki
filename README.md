@@ -7,6 +7,7 @@
 - 东华医疗协同办公系统文件上传
 - 飞企互联-FE企业运营管理平台登录绕过漏洞
 - 飞企互联Ognl表达式注入导致RCE
+- 用友U8_cloud_KeyWordDetailReportQuery_SQL注入漏洞
 
 
 ## 免责声明
