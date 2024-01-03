@@ -198,6 +198,7 @@
   - [用友_NC_uapws_wsdl_XXE漏洞](用友_NC_uapws_wsdl_XXE漏洞.md)
   - [某友时空KSOA_PayBill_SQL注入漏洞](某友时空KSOA_PayBill_SQL注入漏洞.md)
   - [用友U8_cloud_KeyWordDetailReportQuery_SQL注入漏洞](用友U8_cloud_KeyWordDetailReportQuery_SQL注入漏洞.md)
+  - [用友NC_Cloud_soapFormat.ajax接口存在XXE](用友NC_Cloud_soapFormat.ajax接口存在XXE.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
