@@ -1,6 +1,9 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
+## 2024.1.3 新增漏洞
+- 用友NC_Cloud_soapFormat.ajax接口存在XXE
+  
 ## 2023.12.31 新增漏洞
 - OfficeWeb365_任意文件读取漏洞
 - 东华医疗协同办公系统反序列化漏洞
