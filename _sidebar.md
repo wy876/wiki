@@ -85,7 +85,9 @@
   - [某盟sas安全审计系统任意文件读取漏洞](某盟sas安全审计系统任意文件读取漏洞.md)
   - [某盟_SAS堡垒机_local_user.php_任意用户登录漏洞](某盟_SAS堡垒机_local_user.php_任意用户登录漏洞.md)
   - [某盟_SAS堡垒机_漏洞](某盟_SAS堡垒机_漏洞.md)
-
+- 天融信
+  - [天融信TOPSEC_static_convert远程命令执行漏洞](天融信TOPSEC_static_convert远程命令执行漏洞.md)
+  - [天融信TOPSEC_maincgi.cgi远程命令执行](天融信TOPSEC_maincgi.cgi远程命令执行.md)
 - 泛微
 
   - [泛微e-cology9_SQL注入-CNVD-2023-12632](泛微e-cology9_SQL注入-CNVD-2023-12632.md)
