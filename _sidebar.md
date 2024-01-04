@@ -389,4 +389,5 @@
 - [pyLoad远程代码执行漏洞](pyLoad远程代码执行漏洞.md)
 - [QQ客户端存在远程命令执行漏洞](QQ客户端存在远程命令执行漏洞.md)
 - [JAVA_Public_CMS_后台RCE漏洞](JAVA_Public_CMS_后台RCE漏洞.md)
+- [企语iFair协同管理系统任意文件读取(CVE-2023-47473)](企语iFair协同管理系统任意文件读取(CVE-2023-47473).md)
 
