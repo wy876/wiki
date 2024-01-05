@@ -135,6 +135,7 @@
 - iDocView
   - [I_Doc_View任意文件上传漏洞](I_Doc_View任意文件上传漏洞.md)
   - [iDocView_upload接口任意文件读取](iDocView_upload接口任意文件读取.md)
+  - [IDocView_qJvqhFt接口任意文件读取](IDocView_qJvqhFt接口任意文件读取.md)
 
 - IP guard WebServer
   - [IP-guard_WebServer_远程命令执行漏洞](IP-guard_WebServer_远程命令执行漏洞.md)
