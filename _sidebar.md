@@ -204,6 +204,7 @@
   - [用友U8_cloud_KeyWordDetailReportQuery_SQL注入漏洞](用友U8_cloud_KeyWordDetailReportQuery_SQL注入漏洞.md)
   - [用友NC_Cloud_soapFormat.ajax接口存在XXE](用友NC_Cloud_soapFormat.ajax接口存在XXE.md)
   - [用友CRM系统存在逻辑漏洞直接登录后台](用友CRM系统存在逻辑漏洞直接登录后台.md)
+  - [用友NC_CLOUD_smartweb2.RPC.d_XML外部实体注入](用友NC_CLOUD_smartweb2.RPC.d_XML外部实体注入.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
