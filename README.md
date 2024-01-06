@@ -4,6 +4,7 @@
 ## 2024.1.5 新增漏洞
 - 用友NC_CLOUD_smartweb2.RPC.d_XML外部实体注入
 - IDocView_qJvqhFt接口任意文件读取
+- ⻜企互联loginService任意登录
 
 ## 2024.1.3 新增漏洞
 - 用友NC_Cloud_soapFormat.ajax接口存在XXE
