@@ -105,6 +105,7 @@
   - [泛微E-Office9文件上传漏洞_CVE-2023-2648](某微E-Office9文件上传漏洞_CVE-2023-2648.md)
 
   - [泛微_E-Cology_某版本_SQL注入漏洞](某微_E-Cology_某版本_SQL注入漏洞.md)
+  - [泛微移动管理平台lang2sql接口任意文件上传](泛微移动管理平台lang2sql接口任意文件上传.md)
 
 
 - 万户OA
