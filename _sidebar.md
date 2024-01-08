@@ -239,7 +239,7 @@
   - [金蝶OA云星空_ScpSupRegHandler_任意文件上传漏洞](金蝶OA云星空_ScpSupRegHandler_任意文件上传漏洞.md)
   - [金蝶云星空_CommonFileserver_任意文件读取漏洞](金蝶云星空_CommonFileserver_任意文件读取漏洞.md)
   - [金蝶星空云K3Cloud反序列化漏洞](金蝶星空云K3Cloud反序列化漏洞.md)
-  - 
+  - [金蝶EAS_pdfviewlocal任意文件读取漏洞](金蝶EAS_pdfviewlocal任意文件读取漏洞.md)
 
 - 红帆OA
   - [红帆OA_iorepsavexml.aspx_文件上传漏洞](红帆OA_iorepsavexml.aspx_文件上传漏洞.md)
