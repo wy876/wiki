@@ -8,6 +8,7 @@
 - 泛微移动管理平台lang2sql接口任意文件上传
 - 广联达OA任意用户登录
 - 广联达OA前台任意文件上传
+- 金蝶EAS_pdfviewlocal任意文件读取漏洞
 
 ## 2024.1.3 新增漏洞
 - 用友NC_Cloud_soapFormat.ajax接口存在XXE
