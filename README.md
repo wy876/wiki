@@ -1,6 +1,9 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
+## 2024.1.9 新增漏洞
+- 用友移动管理平台uploadIcon任意文件上传漏洞
+
 ## 2024.1.5 新增漏洞
 - 用友NC_CLOUD_smartweb2.RPC.d_XML外部实体注入
 - IDocView_qJvqhFt接口任意文件读取
@@ -18,15 +21,6 @@
 - 用友CRM系统存在逻辑漏洞直接登录后台
 - 亿赛通电子文档安全管理系统XStream反序列化任意文件上传
 - 亿赛通电子文档uploadFile接口文件上传漏洞
-
-
-## 2023.12.31 新增漏洞
-- OfficeWeb365_任意文件读取漏洞
-- 东华医疗协同办公系统反序列化漏洞
-- 东华医疗协同办公系统文件上传
-- 飞企互联-FE企业运营管理平台登录绕过漏洞
-- 飞企互联Ognl表达式注入导致RCE
-- 用友U8_cloud_KeyWordDetailReportQuery_SQL注入漏洞
 
 
 ## 免责声明
