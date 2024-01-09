@@ -255,6 +255,7 @@
   - [金和OA_jc6_clobfield_SQL注入漏洞](金和OA_jc6_clobfield_SQL注入漏洞.md)
   - [金和OA任意文件读取漏洞](金和OA任意文件读取漏洞.md)
   - [金和OA_C6-GetSqlData.aspx_SQL注入漏洞](某和OA_C6-GetSqlData.aspx_SQL注入漏洞.md)
+  - [金和OA_HomeService.asmxSQL注入](金和OA_HomeService.asmxSQL注入.md)
 
 - 易宝OA
   - [易宝OA_ExecuteSqlForSingle_SQL注入漏洞](易宝OA_ExecuteSqlForSingle_SQL注入漏洞.md)
