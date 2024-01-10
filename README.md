@@ -2,7 +2,7 @@
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
 ## 2024.1.9 新增漏洞
-- 用友移动管理平台uploadIcon任意文件上传漏洞
+- 用友移动管理平台任意文件上传漏洞
 
 ## 2024.1.5 新增漏洞
 - 用友NC_CLOUD_smartweb2.RPC.d_XML外部实体注入
