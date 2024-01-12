@@ -176,6 +176,7 @@
   - [亿赛通电子文档平台文件上传漏洞](亿赛通电子文档平台文件上传漏洞.md)
   - [亿赛通电子文档安全管理系统XStream反序列化任意文件上传](亿赛通电子文档安全管理系统XStream反序列化任意文件上传.md)
   - [亿赛通电子文档uploadFile接口文件上传漏洞](亿赛通电子文档uploadFile接口文件上传漏洞.md)
+  - [亿赛通电子文档安全管理系统dump接口存在任意文件读取漏洞](亿赛通电子文档安全管理系统dump接口存在任意文件读取漏洞.md)
 
 - 大华
   - [大华DSS_itcBulletin_SQL_注入漏洞](大华DSS_itcBulletin_SQL_注入漏洞.md)
@@ -259,6 +260,7 @@
   - [金和OA任意文件读取漏洞](金和OA任意文件读取漏洞.md)
   - [金和OA_C6-GetSqlData.aspx_SQL注入漏洞](某和OA_C6-GetSqlData.aspx_SQL注入漏洞.md)
   - [金和OA_HomeService.asmxSQL注入](金和OA_HomeService.asmxSQL注入.md)
+  - [金和OA_SAP_B1Config.aspx未授权访问漏洞](金和OA_SAP_B1Config.aspx未授权访问漏洞.md)
 
 - 易宝OA
   - [易宝OA_ExecuteSqlForSingle_SQL注入漏洞](易宝OA_ExecuteSqlForSingle_SQL注入漏洞.md)
@@ -401,3 +403,4 @@
 - [JAVA_Public_CMS_后台RCE漏洞](JAVA_Public_CMS_后台RCE漏洞.md)
 - [企语iFair协同管理系统任意文件读取(CVE-2023-47473)](企语iFair协同管理系统任意文件读取(CVE-2023-47473).md)
 - [捷诚管理信息系统sql注入漏洞](捷诚管理信息系统sql注入漏洞.md)
+ [SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195)](SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195).md)
