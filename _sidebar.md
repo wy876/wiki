@@ -26,7 +26,7 @@
 - Appium Desktop
   - [Appium_Desktop_CVE-2023-2479漏洞](Appium_Desktop_CVE-2023-2479漏洞.md)
 - GitLab
-  -[GitLab任意用户密码重置漏洞(CVE-2023-7028)](GitLab任意用户密码重置漏洞(CVE-2023-7028).md)
+  - [GitLab任意用户密码重置漏洞(CVE-2023-7028)](GitLab任意用户密码重置漏洞(CVE-2023-7028).md)
   
 - 360
   - [360_新天擎终端安全管理系统存在信息泄露漏洞](360_新天擎终端安全管理系统存在信息泄露漏洞.md)
