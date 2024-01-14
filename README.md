@@ -8,6 +8,7 @@
 - SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195)
 - 致远OA_getAjaxDataServlet接口存在任XXE漏洞
 - 金和OA_jc6_ntko-upload任意文件上传漏洞
+- 蓝凌EIS智慧协同平台多个接口SQL注入
   
 ## 2024.1.9 新增漏洞
 - 用友移动管理平台任意文件上传漏洞
