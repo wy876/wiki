@@ -6,6 +6,7 @@
 - 金和OA_MailTemplates.aspx_SQL注入漏洞
 - 金和OA_upload_json.asp存在任意文件上传漏洞
 - 金和OA_uploadfileeditorsave接口存在任意文件上传漏洞
+- 华天动力OA漏洞
 
 ## 2024.1.12 新增漏洞
 - GitLab任意用户密码重置漏洞(CVE-2023-7028)
