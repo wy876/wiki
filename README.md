@@ -7,6 +7,7 @@
 - 亿赛通电子文档安全管理系统dump接口存在任意文件读取漏洞
 - SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195)
 - 致远OA_getAjaxDataServlet接口存在任XXE漏洞
+- 金和OA_jc6_ntko-upload任意文件上传漏洞
   
 ## 2024.1.9 新增漏洞
 - 用友移动管理平台任意文件上传漏洞
