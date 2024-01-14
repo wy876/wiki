@@ -235,6 +235,7 @@
   - [蓝凌OAsysUiComponent_文件存在任意文件上传漏洞](蓝凌OAsysUiComponent_文件存在任意文件上传漏洞.md)
   - [蓝凌OA_treexml.tmpl_远程命令执行漏洞](蓝凌OA_treexml.tmpl_远程命令执行漏洞.md)
   - [某凌OA前台代码执行](某凌OA前台代码执行.md)
+  - [蓝凌EIS智慧协同平台多个接口SQL注入](蓝凌EIS智慧协同平台多个接口SQL注入.md)
 
 - 金蝶
   - [金蝶Apusic应用服务器loadTree_JNDI注入漏洞](金蝶Apusic应用服务器loadTree_JNDI注入漏洞.md)
