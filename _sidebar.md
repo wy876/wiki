@@ -264,6 +264,10 @@
   - [金和OA_HomeService.asmxSQL注入](金和OA_HomeService.asmxSQL注入.md)
   - [金和OA_SAP_B1Config.aspx未授权访问漏洞](金和OA_SAP_B1Config.aspx未授权访问漏洞.md)
   - [金和OA_jc6_ntko-upload任意文件上传漏洞](金和OA_jc6_ntko-upload任意文件上传漏洞.md)
+  - [金和OA_CarCardInfo.aspx_SQL注入漏洞](金和OA_CarCardInfo.aspx_SQL注入漏洞.md)
+  - [金和OA_MailTemplates.aspx_SQL注入漏洞](金和OA_MailTemplates.aspx_SQL注入漏洞.md)
+  - [金和OA_upload_json.asp存在任意文件上传漏洞](金和OA_upload_json.asp存在任意文件上传漏洞.md)
+  - [金和OA_uploadfileeditorsave接口存在任意文件上传漏洞](金和OA_uploadfileeditorsave接口存在任意文件上传漏洞.md)
 
 - 易宝OA
   - [易宝OA_ExecuteSqlForSingle_SQL注入漏洞](易宝OA_ExecuteSqlForSingle_SQL注入漏洞.md)
