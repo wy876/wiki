@@ -233,7 +233,7 @@
   - [蓝凌EIS智慧协同平台saveImg接口存在任意文件上传漏洞](蓝凌EIS智慧协同平台saveImg接口存在任意文件上传漏洞.md)
   - [蓝凌EKP前台授权绕过导致文件上传](蓝凌EKP前台授权绕过导致文件上传.md)
   - [蓝凌OAsysUiComponent_文件存在任意文件上传漏洞](蓝凌OAsysUiComponent_文件存在任意文件上传漏洞.md)
-  - [_蓝凌OA_treexml.tmpl_远程命令执行漏洞]([_蓝凌OA_treexml.tmpl_远程命令执行漏洞.md)
+  - [蓝凌OA_treexml.tmpl_远程命令执行漏洞]([蓝凌OA_treexml.tmpl_远程命令执行漏洞.md)
   - [某凌OA前台代码执行](某凌OA前台代码执行.md)
 
 - 金蝶
