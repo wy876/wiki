@@ -17,6 +17,8 @@
 - Apache Dubbo
   - [Apache_Dubbo_反序列化漏洞（CVE-2023-29234）](Apache_Dubbo_反序列化漏洞（CVE-2023-29234）.md)
   
+-Apache Solr
+  - [Apache_Solr环境变量信息泄漏漏洞(CVE-2023-50290)](Apache_Solr环境变量信息泄漏漏洞(CVE-2023-50290).md)
 - Apache Submarine
   - [Apache-Submarine-SQL注入漏洞CVE-2023-37924](Apache-Submarine-SQL注入漏洞CVE-2023-37924.md)
   
