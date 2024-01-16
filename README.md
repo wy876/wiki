@@ -8,6 +8,7 @@
 - 金和OA_uploadfileeditorsave接口存在任意文件上传漏洞
 - 华天动力OA漏洞
 - 金和OA_jc6_Upload任意文件上传
+- 致远OA_Ajax.do任意文件上传
 
 ## 2024.1.12 新增漏洞
 - GitLab任意用户密码重置漏洞(CVE-2023-7028)
