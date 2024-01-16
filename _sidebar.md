@@ -268,6 +268,7 @@
   - [金和OA_MailTemplates.aspx_SQL注入漏洞](金和OA_MailTemplates.aspx_SQL注入漏洞.md)
   - [金和OA_upload_json.asp存在任意文件上传漏洞](金和OA_upload_json.asp存在任意文件上传漏洞.md)
   - [金和OA_uploadfileeditorsave接口存在任意文件上传漏洞](金和OA_uploadfileeditorsave接口存在任意文件上传漏洞.md)
+  - [金和OA_jc6_Upload任意文件上传](金和OA_jc6_Upload任意文件上传.md)
 - 华天动力OA
   - [华天动力OA漏洞合集](华天动力OA漏洞.md)
 - 易宝OA
