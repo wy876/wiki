@@ -221,6 +221,7 @@
   - [致远OA前台任意用户密码修改漏洞](致远OA前台任意用户密码修改漏洞.md)
   - [致远互联FE协作办公平台editflow_manager存在sql注入漏洞](致远互联FE协作办公平台editflow_manager存在sql注入漏洞.md)
   - [致远OA_getAjaxDataServlet接口存在任XXE漏洞](致远OA_getAjaxDataServlet接口存在任XXE漏洞.md)
+  - [致远OA_Ajax.do任意文件上传](致远OA_Ajax.do任意文件上传.md)
 
 - 通达OA
   - [通达OA_down.php接口存在未授权访问漏洞](通达OA_down.php接口存在未授权访问漏洞.md)
