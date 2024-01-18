@@ -415,4 +415,5 @@
 - [JAVA_Public_CMS_后台RCE漏洞](JAVA_Public_CMS_后台RCE漏洞.md)
 - [企语iFair协同管理系统任意文件读取(CVE-2023-47473)](企语iFair协同管理系统任意文件读取(CVE-2023-47473).md)
 - [捷诚管理信息系统sql注入漏洞](捷诚管理信息系统sql注入漏洞.md)
- [SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195)](SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195).md)
+- [SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195)](SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195).md)
+- [Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305)](Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305).md)
