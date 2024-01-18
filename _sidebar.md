@@ -30,10 +30,11 @@
 - GitLab
   - [GitLab任意用户密码重置漏洞(CVE-2023-7028)](GitLab任意用户密码重置漏洞(CVE-2023-7028).md)
   
-- 360
+- 360 or 奇安信
   - [360_新天擎终端安全管理系统存在信息泄露漏洞](360_新天擎终端安全管理系统存在信息泄露漏洞.md)
   - [360天擎_-_未授权与sql注入](360天擎_-_未授权与sql注入.md)
   - [奇安信360天擎getsimilarlistSQL注入漏洞](奇安信360天擎getsimilarlistSQL注入漏洞.md)
+  - [奇安信天擎rptsvr任意文件上传](奇安信天擎rptsvr任意文件上传.md)
 
 - Confluence
   - [Confluenc_未授权提权访问漏洞](Confluence_未授权提权访问漏洞.md)
