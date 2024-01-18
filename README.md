@@ -4,6 +4,7 @@
 ## 2024.1.18 新增漏洞
 - Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305)
 - 奇安信天擎rptsvr任意文件上传
+- 用友GRP-U8-SelectDMJE.jsp_SQL注入漏洞
   
 ## 2024.1.14 新增漏洞
 - 金和OA_CarCardInfo.aspx_SQL注入漏洞
