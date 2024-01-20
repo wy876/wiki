@@ -5,7 +5,9 @@
 - Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305)
 - 奇安信天擎rptsvr任意文件上传
 - 用友GRP-U8-SelectDMJE.jsp_SQL注入漏洞
-  
+- Ivanti_Connect_Secure远程命令注入漏洞(CVE-2024-21887)
+- 天擎终端安全管理系统YII_CSRF_TOKEN远程代码执行漏洞
+
 ## 2024.1.14 新增漏洞
 - 金和OA_CarCardInfo.aspx_SQL注入漏洞
 - 金和OA_MailTemplates.aspx_SQL注入漏洞
