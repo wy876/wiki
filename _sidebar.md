@@ -35,7 +35,8 @@
   - [360天擎_-_未授权与sql注入](360天擎_-_未授权与sql注入.md)
   - [奇安信360天擎getsimilarlistSQL注入漏洞](奇安信360天擎getsimilarlistSQL注入漏洞.md)
   - [奇安信天擎rptsvr任意文件上传](奇安信天擎rptsvr任意文件上传.md)
-
+  - [天擎终端安全管理系统YII_CSRF_TOKEN远程代码执行漏洞](天擎终端安全管理系统YII_CSRF_TOKEN远程代码执行漏洞.md)
+    
 - Confluence
   - [Confluenc_未授权提权访问漏洞](Confluence_未授权提权访问漏洞.md)
   - [Confluence身份认证绕过(CVE-2023-22518)](Confluence身份认证绕过(CVE-2023-22518).md)
@@ -418,3 +419,4 @@
 - [捷诚管理信息系统sql注入漏洞](捷诚管理信息系统sql注入漏洞.md)
 - [SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195)](SpiderFlow爬虫平台远程命令执行漏洞(CVE-2024-0195).md)
 - [Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305)](Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305).md)
+- [Ivanti_Connect_Secure远程命令注入漏洞(CVE-2024-21887)](Ivanti_Connect_Secure远程命令注入漏洞(CVE-2024-21887).md)
