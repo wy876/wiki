@@ -215,6 +215,7 @@
   - [用友NC_CLOUD_smartweb2.RPC.d_XML外部实体注入](用友NC_CLOUD_smartweb2.RPC.d_XML外部实体注入.md)
   - [用友移动管理平台任意文件上传漏洞](用友移动管理平台任意文件上传漏洞.md)
   - [用友GRP-U8-SelectDMJE.jsp_SQL注入漏洞](用友GRP-U8-SelectDMJE.jsp_SQL注入漏洞.md)
+  - [用友移动系统管理-getFileLocal-接口存在任意文件读取](用友移动系统管理-getFileLocal-接口存在任意文件读取.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
