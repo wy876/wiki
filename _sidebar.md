@@ -194,6 +194,7 @@
   - [某神_SecGate_3600_防火墙_obj_app_upfile_任意文件上传漏洞](某神_SecGate_3600_防火墙_obj_app_upfile_任意文件上传漏洞.md)
   - [某神_SecSSL_3600安全接入网关系统_任意密码修改漏洞](某神_SecSSL_3600安全接入网关系统_任意密码修改漏洞.md)
   - [网神防火墙_app_av_import_save文件上传漏洞](网神防火墙_app_av_import_save文件上传漏洞.md)
+  - [网神SecGate 3600 防火墙sys_hand_upfile 任意文件上传漏洞](网神SecGate-3600防火墙-sys_hand_upfile-任意文件上传漏洞.md)
 
 - 用友
   - [用友CRM_任意文件读取漏洞](用友CRM_任意文件读取漏洞.md)
