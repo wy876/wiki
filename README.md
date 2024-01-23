@@ -9,6 +9,7 @@
 - 天擎终端安全管理系统YII_CSRF_TOKEN远程代码执行漏洞
 - 用友移动系统管理-getFileLocal-接口存在任意文件读取
 - 网神SecGate-3600防火墙-sys_hand_upfile-任意文件上传漏洞
+- AtlassianConfluence远程代码执行漏洞(CVE-2023-22527)
 
 ## 2024.1.14 新增漏洞
 - 金和OA_CarCardInfo.aspx_SQL注入漏洞
