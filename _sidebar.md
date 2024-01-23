@@ -40,6 +40,7 @@
 - Confluence
   - [Confluenc_未授权提权访问漏洞](Confluence_未授权提权访问漏洞.md)
   - [Confluence身份认证绕过(CVE-2023-22518)](Confluence身份认证绕过(CVE-2023-22518).md)
+  - [Atlassian Confluence远程代码执行漏洞(CVE-2023-22527)](AtlassianConfluence远程代码执行漏洞(CVE-2023-22527).md)
 
 - H3C
   - [H3C_Magic_B1STV100R012_RCE](H3C_Magic_B1STV100R012_RCE.md)
