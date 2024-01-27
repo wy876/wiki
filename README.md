@@ -1,6 +1,9 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
+## 2024.1.27 新增漏洞
+- 万户OA text2Html接口存在任意文件读取漏洞
+  
 ## 2024.1.18 新增漏洞
 - Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305)
 - 奇安信天擎rptsvr任意文件上传
