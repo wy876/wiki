@@ -155,7 +155,8 @@
 
 - JumpServer
   - [JumpServer未授权漏洞](JumpServer未授权漏洞.md)
-
+- Jenkins
+  - [Jenkins任意文件读取漏洞(CVE-2024-23897)](Jenkins任意文件读取漏洞(CVE-2024-23897).md)
 - Metabase 
   - [Metabase_validate_远程命令执行漏洞（CVE-2023-38646）](Metabase_validate_远程命令执行漏洞（CVE-2023-38646）.md)
 
