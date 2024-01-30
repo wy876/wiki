@@ -6,6 +6,7 @@
 - Jenkins任意文件读取漏洞(CVE-2024-23897)
 - 亿赛通电子文档安全管理系统hiddenWatermark文件上传漏洞
 - 用友系统-U9企业版存在任意文件上传漏洞
+- 广联达-linkworks-gwgdwebservice存在SQL注入漏洞
   
 ## 2024.1.18 新增漏洞
 - Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305)
