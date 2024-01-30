@@ -267,6 +267,7 @@
   - [广联达oa_sql注入漏洞_](广联达oa_sql注入漏洞_.md)
   - [广联达OA前台任意文件上传](广联达OA前台任意文件上传.md)
   - [广联达OA任意用户登录](广联达OA任意用户登录.md)
+  - [广联达-linkworks-gwgdwebservice存在SQL注入漏洞](广联达-linkworks-gwgdwebservice存在SQL注入漏洞.md)
 - 宏景OA
   - [宏景OA文件上传](宏景OA文件上传.md)
 - 金和OA
