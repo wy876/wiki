@@ -186,6 +186,7 @@
   - [亿赛通电子文档安全管理系统hiddenWatermark文件上传漏洞](亿赛通电子文档安全管理系统hiddenWatermark文件上传漏洞.md)
   - [亿赛通电子文档安全管理系统UploadFileToCatalog接口存在SQL注入漏洞](亿赛通电子文档安全管理系统UploadFileToCatalog接口存在SQL注入漏洞.md)
   - [亿赛通电子文档安全管理系统GetValidateLoginUserService接口存在XStream反序列化漏洞](亿赛通电子文档安全管理系统GetValidateLoginUserService接口存在XStream反序列化漏洞.md)
+  - [亿赛通电子文档安全管理系统UploadFileList任意文件读取漏洞](亿赛通电子文档安全管理系统UploadFileList任意文件读取漏洞.md)
 
 - 大华
   - [大华DSS_itcBulletin_SQL_注入漏洞](大华DSS_itcBulletin_SQL_注入漏洞.md)
@@ -195,6 +196,7 @@
   - [大华智慧园区综合管理平台video文件上传漏洞](大华智慧园区综合管理平台video文件上传漏洞.md)
   - [大华智能物联ICC综合管理平台readpic任意文件读取漏洞](大华智能物联ICC综合管理平台readpic任意文件读取漏洞.md)
   - [大华智能物联综合管理平台justForTest用户登录漏洞](大华智能物联综合管理平台justForTest用户登录漏洞.md)
+  - [大华智慧园区综合管理平台bitmap接口存在任意文件上传漏洞](大华智慧园区综合管理平台bitmap接口存在任意文件上传漏洞.md)
 
 - 网神
   - [某神_SecGate_3600_防火墙_obj_app_upfile_任意文件上传漏洞](某神_SecGate_3600_防火墙_obj_app_upfile_任意文件上传漏洞.md)
@@ -348,6 +350,7 @@
   - [飞企互联-FE企业运营管理平台登录绕过漏洞](飞企互联-FE企业运营管理平台登录绕过漏洞.md)
   - [飞企互联Ognl表达式注入导致RCE](飞企互联Ognl表达式注入导致RCE.md)
   - [⻜企互联loginService任意登录](⻜企互联loginService任意登录.md)
+  - [飞企互联-FE企业运营管理平台publicData.jsp存在SQL注入漏洞](飞企互联-FE企业运营管理平台publicData.jsp存在SQL注入漏洞.md)
 
 - 明源云
   - [明源云_ERP_ApiUpdate.ashx_文件上传漏洞](明源云_ERP_ApiUpdate.ashx_文件上传漏洞.md)
