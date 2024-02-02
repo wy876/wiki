@@ -184,6 +184,7 @@
   - [亿赛通电子文档uploadFile接口文件上传漏洞](亿赛通电子文档uploadFile接口文件上传漏洞.md)
   - [亿赛通电子文档安全管理系统dump接口存在任意文件读取漏洞](亿赛通电子文档安全管理系统dump接口存在任意文件读取漏洞.md)
   - [亿赛通电子文档安全管理系统hiddenWatermark文件上传漏洞](亿赛通电子文档安全管理系统hiddenWatermark文件上传漏洞.md)
+  - [亿赛通电子文档安全管理系统UploadFileToCatalog接口存在SQL注入漏洞](亿赛通电子文档安全管理系统UploadFileToCatalog接口存在SQL注入漏洞.md)
 
 - 大华
   - [大华DSS_itcBulletin_SQL_注入漏洞](大华DSS_itcBulletin_SQL_注入漏洞.md)
