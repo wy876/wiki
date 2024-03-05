@@ -17,7 +17,7 @@
 - Apache Dubbo
   - [Apache_Dubbo_反序列化漏洞（CVE-2023-29234）](Apache_Dubbo_反序列化漏洞（CVE-2023-29234）.md)
   
--Apache Solr
+- Apache Solr
   - [Apache_Solr环境变量信息泄漏漏洞(CVE-2023-50290)](Apache_Solr环境变量信息泄漏漏洞(CVE-2023-50290).md)
 - Apache Submarine
   - [Apache-Submarine-SQL注入漏洞CVE-2023-37924](Apache-Submarine-SQL注入漏洞CVE-2023-37924.md)
@@ -27,6 +27,9 @@
   
 - Appium Desktop
   - [Appium_Desktop_CVE-2023-2479漏洞](Appium_Desktop_CVE-2023-2479漏洞.md)
+
+- Weblogic
+  - [Weblogic远程代码执行(CVE-2024-20931)](Weblogic远程代码执行(CVE-2024-20931).md)
 - GitLab
   - [GitLab任意用户密码重置漏洞(CVE-2023-7028)](GitLab任意用户密码重置漏洞(CVE-2023-7028).md)
   
