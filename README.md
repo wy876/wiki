@@ -1,6 +1,29 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
+## 2024.3.5 新增漏洞
+- RG-UAC锐捷统一上网行为管理与审计系统存在远程代码执行漏洞
+- RUOYI-v4.7.8存在远程代码执行漏洞
+- 西软云XMS-futurehotel-query接口存在XXE漏洞
+- 西软云XMS-futurehotel-operate接口存在XXE漏洞
+- 宏景eHR-HCM-DisplayExcelCustomReport接口存在任意文件读取漏洞
+- 用友U9-UMWebService.asmx存在文件读取漏洞
+- 用友U8 Cloud-KeyWordReportQuery存在SQL注入漏洞
+- 用友U8 Cloud-ArchiveVerify存在SQL注入漏洞
+- 易宝OA系统DownloadFile接口存在文件读取漏洞
+- 浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞
+- 蓝凌EIS智慧协同平台rpt_listreport_definefield.aspx接口存在SQL注入漏洞
+- 万户OA-RhinoScriptEngineService命令执行漏洞
+- 宏景DisplayFiles任意文件读取
+- 蓝凌OA-WechatLoginHelper.do存在SQL注入漏洞
+- 用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞
+- 宝塔最新未授权访问漏洞及sql注入
+- 金盘移动图书馆系统存在任意文件上传漏洞
+- Panalog大数据日志审计系统libres_syn_delete.php存在命令执行
+- WAGO系统远程代码执行漏洞(CVE-2023-1698)
+- 山石网科云鉴存在前台任意命令执行漏洞
+- Weblogic远程代码执行(CVE-2024-20931)
+
 ## 2024.2.2 新增漏洞
 - 亿赛通电子文档安全管理系统UploadFileToCatalog接口存在SQL注入漏洞
 - 亿赛通电子文档安全管理系统GetValidateLoginUserService接口存在XStream反序列化漏洞
