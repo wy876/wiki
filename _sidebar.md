@@ -229,6 +229,7 @@
   - [用友GRP-U8-SelectDMJE.jsp_SQL注入漏洞](用友GRP-U8-SelectDMJE.jsp_SQL注入漏洞.md)
   - [用友移动系统管理-getFileLocal-接口存在任意文件读取](用友移动系统管理-getFileLocal-接口存在任意文件读取.md)
   - [用友系统-U9企业版存在任意文件上传漏洞](用友系统-U9企业版存在任意文件上传漏洞.md)
+  - [用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞](用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
@@ -392,7 +393,9 @@
   - [思福迪运维安全管理系统RCE漏洞](思福迪运维安全管理系统RCE漏洞.md)
 - 西软云
   - [西软云XMS反序列化漏洞](西软云XMS反序列化漏洞.md)
-  
+- 宝塔
+  - [宝塔最新未授权访问漏洞及sql注入](宝塔最新未授权访问漏洞及sql注入.md)
+    
 - [湖南建研-检测系统_admintool_任意文件上传](湖南建研-检测系统_admintool_任意文件上传.md)
 - [睿因_Wavlink_WL_WNJ575A3_远程命令执行](睿因_Wavlink_WL_WNJ575A3_远程命令执行.md)
 - [福建科立讯通信有限公司指挥调度管理平台RCE](福建科立讯通信有限公司指挥调度管理平台RCE.md)
@@ -438,3 +441,5 @@
 - [Ivanti_Connect_Secure远程命令注入漏洞(CVE-2024-21887)](Ivanti_Connect_Secure远程命令注入漏洞(CVE-2024-21887).md)
 - [山石网科云鉴存在前台任意命令执行漏洞](山石网科云鉴存在前台任意命令执行漏洞.md)
 - [WAGO系统远程代码执行漏洞(CVE-2023-1698)](WAGO系统远程代码执行漏洞(CVE-2023-1698).md)
+- [Panalog大数据日志审计系统libres_syn_delete.php存在命令执行](Panalog大数据日志审计系统libres_syn_delete.php存在命令执行.md)
+- [金盘移动图书馆系统存在任意文件上传漏洞](金盘移动图书馆系统存在任意文件上传漏洞.md)
