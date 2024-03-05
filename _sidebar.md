@@ -124,6 +124,7 @@
   - [万户协同办公平台存在未授权访问漏洞](万户协同办公平台存在未授权访问漏洞.md)
   - [万户协同办公平台接口存在文件上传漏洞](万户协同办公平台接口存在文件上传漏洞.md)
   - [万户OA text2Html接口存在任意文件读取漏洞](万户OA-text2Html-接口存在任意文件读取漏洞.md)
+  - [万户OA-RhinoScriptEngineService命令执行漏洞](万户OA-RhinoScriptEngineService命令执行漏洞.md)
 
 - CloudPanel
   - [CloudPanel_RCE漏洞](CloudPanel_RCE漏洞.md)
@@ -230,6 +231,7 @@
   - [用友移动系统管理-getFileLocal-接口存在任意文件读取](用友移动系统管理-getFileLocal-接口存在任意文件读取.md)
   - [用友系统-U9企业版存在任意文件上传漏洞](用友系统-U9企业版存在任意文件上传漏洞.md)
   - [用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞](用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞.md)
+  - [用友U8-Cloud-ArchiveVerify存在SQL注入漏洞](用友U8-Cloud-ArchiveVerify存在SQL注入漏洞.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
@@ -256,6 +258,8 @@
   - [蓝凌OA_treexml.tmpl_远程命令执行漏洞](蓝凌OA_treexml.tmpl_远程命令执行漏洞.md)
   - [某凌OA前台代码执行](某凌OA前台代码执行.md)
   - [蓝凌EIS智慧协同平台多个接口SQL注入](蓝凌EIS智慧协同平台多个接口SQL注入.md)
+  - [蓝凌OA-WechatLoginHelper.do存在SQL注入漏洞](蓝凌OA-WechatLoginHelper.do存在SQL注入漏洞.md)
+  - [蓝凌EIS智慧协同平台rpt_listreport_definefield.aspx接口存在SQL注入漏洞](蓝凌EIS智慧协同平台rpt_listreport_definefield.aspx接口存在SQL注入漏洞.md)
 
 - 金蝶
   - [金蝶Apusic应用服务器loadTree_JNDI注入漏洞](金蝶Apusic应用服务器loadTree_JNDI注入漏洞.md)
@@ -278,6 +282,7 @@
   - [广联达-linkworks-gwgdwebservice存在SQL注入漏洞](广联达-linkworks-gwgdwebservice存在SQL注入漏洞.md)
 - 宏景OA
   - [宏景OA文件上传](宏景OA文件上传.md)
+  - [宏景DisplayFiles任意文件读取](宏景DisplayFiles任意文件读取.md)
 - 金和OA
   - [金和OA_jc6_clobfield_SQL注入漏洞](金和OA_jc6_clobfield_SQL注入漏洞.md)
   - [金和OA任意文件读取漏洞](金和OA任意文件读取漏洞.md)
@@ -294,6 +299,7 @@
   - [华天动力OA漏洞合集](华天动力OA漏洞.md)
 - 易宝OA
   - [易宝OA_ExecuteSqlForSingle_SQL注入漏洞](易宝OA_ExecuteSqlForSingle_SQL注入漏洞.md)
+  - [易宝OA系统DownloadFile接口存在文件读取漏洞](易宝OA系统DownloadFile接口存在文件读取漏洞.md)
 - 金山
   - [金山EDR_RCE漏洞](金山EDR_RCE漏洞.md)
   - [金山WPS_RCE](金山WPS_RCE.md)
@@ -333,7 +339,8 @@
 
   - [wordpress_listingo_文件上传漏洞](wordpress_listingo_文件上传漏洞.md)
 
-    
+- 浙大恩特客户资源管理系统
+  - [浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞](浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞.md)
 
 - 百卓 Smart S85F
   - [Smart_S85F_任意文件读取](Smart_S85F_任意文件读取.md)
