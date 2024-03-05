@@ -232,6 +232,8 @@
   - [用友系统-U9企业版存在任意文件上传漏洞](用友系统-U9企业版存在任意文件上传漏洞.md)
   - [用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞](用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞.md)
   - [用友U8-Cloud-ArchiveVerify存在SQL注入漏洞](用友U8-Cloud-ArchiveVerify存在SQL注入漏洞.md)
+  - [用友U8-Cloud-KeyWordReportQuery存在SQL注入漏洞](用友U8-Cloud-KeyWordReportQuery存在SQL注入漏洞.md)
+  - [用友U9-UMWebService.asmx存在文件读取漏洞](用友U9-UMWebService.asmx存在文件读取漏洞.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
@@ -283,6 +285,7 @@
 - 宏景OA
   - [宏景OA文件上传](宏景OA文件上传.md)
   - [宏景DisplayFiles任意文件读取](宏景DisplayFiles任意文件读取.md)
+  - [宏景eHR-HCM-DisplayExcelCustomReport接口存在任意文件读取漏洞](宏景eHR-HCM-DisplayExcelCustomReport接口存在任意文件读取漏洞.md)
 - 金和OA
   - [金和OA_jc6_clobfield_SQL注入漏洞](金和OA_jc6_clobfield_SQL注入漏洞.md)
   - [金和OA任意文件读取漏洞](金和OA任意文件读取漏洞.md)
@@ -400,6 +403,8 @@
   - [思福迪运维安全管理系统RCE漏洞](思福迪运维安全管理系统RCE漏洞.md)
 - 西软云
   - [西软云XMS反序列化漏洞](西软云XMS反序列化漏洞.md)
+  - [西软云XMS-futurehotel-operate接口存在XXE漏洞](西软云XMS-futurehotel-operate接口存在XXE漏洞.md)
+  - [西软云XMS-futurehotel-query接口存在XXE漏洞](西软云XMS-futurehotel-query接口存在XXE漏洞.md)
 - 宝塔
   - [宝塔最新未授权访问漏洞及sql注入](宝塔最新未授权访问漏洞及sql注入.md)
     
