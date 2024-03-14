@@ -1,6 +1,37 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
+## 2024.03.14 新增漏洞
+- 亿赛通-数据泄露防护(DLP)ClientAjax接口存在任意文件读取漏洞
+- 亿赛通电子文档安全管理系统DecryptApplication存在任意文件读取漏洞
+- 金和OA_jc6_viewConTemplate.action存在FreeMarker模板注入漏洞
+- 用友U8_Cloud-base64存在SQL注入漏洞
+- 大华智慧园区综合管理平台pageJson存在SQL注入漏洞
+- 宏景HCM-codesettree接口存在SQL注入漏洞 
+- SpringBlade blade-log存在SQL 注入漏洞
+- 宏景HCM-downlawbase接口存在SQL注入漏洞
+- 天问物业ERP系统docfileDownLoad.aspx存在任意文件读取漏洞
+- H3C 用户自助服务平台 dynamiccontent.properties.xhtml存在RCE漏洞
+- 网康科技 NS-ASG 应用安全网关 SQL注入漏洞(CVE-2024-2330)
+- 大华智慧园区clientServer接口SQL注入漏洞
+- 大华智慧园区getNewStaypointDetailQuery接口SQL注入漏洞
+- 网康NS-ASG应用安全网关singlelogin.php存在SQL注入漏洞
+- 网康科技NS-ASG应用安全网关list_ipAddressPolicy.php存在SQL注入漏洞(CVE-2024-2022)
+- 用友NC-saveDoc.ajax存在任意文件上传漏洞
+- 亿赛通电子文档安全管理系统NavigationAjax接口存在SQL注入漏洞
+- 海康威视综合安防系统detection接口存在RCE漏洞
+- H3C-校园网自助服务系统flexfileupload任意文件上传漏洞
+- 绿盟日志审计系统存在命令执行漏洞
+- JetBrains TeamCity 身份验证绕过漏洞(CVE-2024-27198)
+- H3C-SecParh堡垒机任意用户登录漏洞
+- 红帆ioffice-udfGetDocStep.asmx存在SQL注入漏洞
+- 致远前台任意用户密码修改
+- JEEVMS仓库管理系统任意文件读取漏洞
+- 海康威视iVMS综合安防系统resourceOperations接口任意文件上传漏洞
+- WordPress插件Bricks Builder存在RCE漏洞(CVE-2024-25600)
+- 大华EIMS-capture_handle接口远程命令执行漏洞
+- 帮管客CRM-jiliyu接口存在SQL漏洞
+
 ## 2024.3.5 新增漏洞
 - RG-UAC锐捷统一上网行为管理与审计系统存在远程代码执行漏洞
 - RUOYI-v4.7.8存在远程代码执行漏洞
