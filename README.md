@@ -31,6 +31,7 @@
 - WordPress插件Bricks Builder存在RCE漏洞(CVE-2024-25600)
 - 大华EIMS-capture_handle接口远程命令执行漏洞
 - 帮管客CRM-jiliyu接口存在SQL漏洞
+- 金蝶云-星空ServiceGateway反序列化漏洞
 
 ## 2024.3.5 新增漏洞
 - RG-UAC锐捷统一上网行为管理与审计系统存在远程代码执行漏洞
