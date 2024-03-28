@@ -98,21 +98,13 @@
   - [天融信TOPSEC_static_convert远程命令执行漏洞](天融信TOPSEC_static_convert远程命令执行漏洞.md)
   - [天融信TOPSEC_maincgi.cgi远程命令执行](天融信TOPSEC_maincgi.cgi远程命令执行.md)
 - 泛微
-
   - [泛微e-cology9_SQL注入-CNVD-2023-12632](泛微e-cology9_SQL注入-CNVD-2023-12632.md)
-
   - [泛微E-MobileServer远程命令执行漏洞](泛微E-MobileServer远程命令执行漏洞.md)
-
   - [泛微e-office_未授权访问](泛微e-office_未授权访问.md)
-
   - [泛微_HrmCareerApplyPerView_sql注入漏洞](泛微_HrmCareerApplyPerView_sql注入漏洞.md)
-
   - [泛微云桥_e-Bridge_addTaste接口SQL注入漏洞](泛微云桥_e-Bridge_addTaste接口SQL注入漏洞.md)
-
   - [泛微E-Office9文件上传漏洞_CVE-2023-2523.md](某微E-Office9文件上传漏洞_CVE-2023-2523.md)
-
   - [泛微E-Office9文件上传漏洞_CVE-2023-2648](某微E-Office9文件上传漏洞_CVE-2023-2648.md)
-
   - [泛微_E-Cology_某版本_SQL注入漏洞](某微_E-Cology_某版本_SQL注入漏洞.md)
   - [泛微移动管理平台lang2sql接口任意文件上传](泛微移动管理平台lang2sql接口任意文件上传.md)
 
@@ -247,6 +239,7 @@
   - [用友U9-UMWebService.asmx存在文件读取漏洞](用友U9-UMWebService.asmx存在文件读取漏洞.md)
   - [用友NC-saveDoc.ajax存在任意文件上传漏洞](用友NC-saveDoc.ajax存在任意文件上传漏洞.md)
   - [用友U8_Cloud-base64存在SQL注入漏洞](用友U8_Cloud-base64存在SQL注入漏洞.md)
+  - [用友U8-Cloud接口FileServlet存在任意文件读取漏洞](用友U8-Cloud接口FileServlet存在任意文件读取漏洞.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
@@ -322,6 +315,9 @@
 - 易宝OA
   - [易宝OA_ExecuteSqlForSingle_SQL注入漏洞](易宝OA_ExecuteSqlForSingle_SQL注入漏洞.md)
   - [易宝OA系统DownloadFile接口存在文件读取漏洞](易宝OA系统DownloadFile接口存在文件读取漏洞.md)
+
+- 联达OA
+  - [联达OA-UpLoadFile.aspx存在任意文件上传漏洞](联达OA-UpLoadFile.aspx存在任意文件上传漏洞.md)
 - 金山
   - [金山EDR_RCE漏洞](金山EDR_RCE漏洞.md)
   - [金山WPS_RCE](金山WPS_RCE.md)
@@ -342,6 +338,9 @@
   - [禅道_16.5_router.class.php_SQL注入漏洞](禅道_16.5_router.class.php_SQL注入漏洞.md)
   - [禅道_v18.0-v18.3_存在后台命令执行漏洞](禅道_v18.0-v18.3_存在后台命令执行漏洞.md)
 
+- 通天星
+  - [通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞](通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞.md)
+    
 - Smartbi
   - [Smartbi_内置用户登陆绕过](Smartbi_内置用户登陆绕过.md)
 
