@@ -27,7 +27,8 @@
   
 - Appium Desktop
   - [Appium_Desktop_CVE-2023-2479漏洞](Appium_Desktop_CVE-2023-2479漏洞.md)
-
+- Adobe ColdFusion
+  - [Adobe-ColdFusion任意文件读取漏洞CVE-2024-20767](Adobe-ColdFusion任意文件读取漏洞CVE-2024-20767.md)
 - Weblogic
   - [Weblogic远程代码执行(CVE-2024-20931)](Weblogic远程代码执行(CVE-2024-20931).md)
 - GitLab
@@ -138,6 +139,7 @@
   - [Wordpress_Backup_Migration_plugin_代码执行漏洞(CVE-2023-6553)](Wordpress_Backup_Migration_plugin_代码执行漏洞(CVE-2023-6553).md)
   - [wordpress_listingo_文件上传漏洞](wordpress_listingo_文件上传漏洞.md)
   - [WordPress插件BricksBuilder存在RCE漏洞(CVE-2024-25600)](WordPress插件BricksBuilder存在RCE漏洞(CVE-2024-25600).md)
+  - [WordPress-Automatic-Plugin任意文件下载漏洞(CVE-2024-27954)](WordPress-Automatic-Plugin任意文件下载漏洞(CVE-2024-27954).md)
 
 - 思科 Cisco
   - [Cisco_IOS_XE_CVE-2023-20198权限提升漏洞](Cisco_IOS_XE_CVE-2023-20198权限提升漏洞.md)
@@ -263,6 +265,7 @@
   - [用友NC-saveDoc.ajax存在任意文件上传漏洞](用友NC-saveDoc.ajax存在任意文件上传漏洞.md)
   - [用友U8_Cloud-base64存在SQL注入漏洞](用友U8_Cloud-base64存在SQL注入漏洞.md)
   - [用友U8-Cloud接口FileServlet存在任意文件读取漏洞](用友U8-Cloud接口FileServlet存在任意文件读取漏洞.md)
+  - [用友U8-nc.bs.sm.login2.RegisterServlet存在SQL注入漏洞](用友U8-nc.bs.sm.login2.RegisterServlet存在SQL注入漏洞.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
@@ -275,6 +278,7 @@
   - [致远OA_getAjaxDataServlet接口存在任XXE漏洞](致远OA_getAjaxDataServlet接口存在任XXE漏洞.md)
   - [致远OA_Ajax.do任意文件上传](致远OA_Ajax.do任意文件上传.md)
   - [致远前台任意用户密码修改](致远前台任意用户密码修改.md)
+  - [致远OA-ucpcLogin密码重置漏洞](致远OA-ucpcLogin密码重置漏洞.md)
 
 - 通达OA
   - [通达OA_down.php接口存在未授权访问漏洞](通达OA_down.php接口存在未授权访问漏洞.md)
@@ -338,9 +342,14 @@
 - 易宝OA
   - [易宝OA_ExecuteSqlForSingle_SQL注入漏洞](易宝OA_ExecuteSqlForSingle_SQL注入漏洞.md)
   - [易宝OA系统DownloadFile接口存在文件读取漏洞](易宝OA系统DownloadFile接口存在文件读取漏洞.md)
+  - [易宝OA-BasicService.asmx存在任意文件上传漏洞](易宝OA-BasicService.asmx存在任意文件上传漏洞.md)
 
 - 联达OA
   - [联达OA-UpLoadFile.aspx存在任意文件上传漏洞](联达OA-UpLoadFile.aspx存在任意文件上传漏洞.md)
+  - [联达OA-uploadLogo.aspx存在任意文件上传](联达OA-uploadLogo.aspx存在任意文件上传.md)
+
+- 协达OA
+  - [协达OA系统绕过登录认证登陆后台](协达OA系统绕过登录认证登陆后台.md)
 - 金山
   - [金山EDR_RCE漏洞](金山EDR_RCE漏洞.md)
   - [金山WPS_RCE](金山WPS_RCE.md)
@@ -480,3 +489,9 @@
 - [帮管客CRM-jiliyu接口存在SQL漏洞](帮管客CRM-jiliyu接口存在SQL漏洞.md)
 - [JEEVMS仓库管理系统任意文件读取漏洞](JEEVMS仓库管理系统任意文件读取漏洞.md)
 - [天问物业ERP系统docfileDownLoad.aspx存在任意文件读取漏洞](天问物业ERP系统docfileDownLoad.aspx存在任意文件读取漏洞.md)
+- [金石工程项目管理系统TianBaoJiLu.aspx存在SQL注入漏洞](金石工程项目管理系统TianBaoJiLu.aspx存在SQL注入漏洞.md)
+- [商混ERP-DictionaryEdit.aspxSQL注入漏洞](商混ERP-DictionaryEdit.aspxSQL注入漏洞.md)
+- [Fortinet-SSL-VPN-CVE-2024-21762](Fortinet-SSL-VPN-CVE-2024-21762.md)
+- [Fortra-FileCatalyst-Workflow远程代码执行漏漏洞(CVE-2024-25153)](Fortra-FileCatalyst-Workflow远程代码执行漏漏洞(CVE-2024-25153).md)
+- [网络验证系统getInfo参数存在SQL注入漏洞](网络验证系统getInfo参数存在SQL注入漏洞.md)
+  
