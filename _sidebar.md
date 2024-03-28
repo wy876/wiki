@@ -65,57 +65,6 @@
   - [Array_VPN任意文件读取漏洞](Array_VPN任意文件读取漏洞)
 - JetBrains
   - [JetBrainsTeamCity身份验证绕过漏洞(CVE-2024-27198)](JetBrainsTeamCity身份验证绕过漏洞(CVE-2024-27198).md)
-- 思科 Cisco
-  - [Cisco_IOS_XE_CVE-2023-20198权限提升漏洞](Cisco_IOS_XE_CVE-2023-20198权限提升漏洞.md)
-
-- 海康威视
-  - [HiKVISION_综合安防管理平台_任意文件上传漏洞](HiKVISION_综合安防管理平台_任意文件上传漏洞.md)
-  - [海康威视-综合安防管理平台-files-文件读取](海康威视-综合安防管理平台-files-文件读取.md)
-  - [海康威视CVE-2023-6895_IP网络对讲广播系统远程命令执行](海康威视CVE-2023-6895_IP网络对讲广播系统远程命令执行.md)
-  - [海康威视IP网络对讲广播系统任意文件下载漏洞CVE-2023-6893](海康威视IP网络对讲广播系统任意文件下载漏洞CVE-2023-6893.md)
-  - [海康威视IVMS-8700_fastjson命令执行漏洞](海康威视IVMS-8700_fastjson命令执行漏洞.md)
-  - [海康威视安全接入网关任意文件读取漏洞](海康威视安全接入网关任意文件读取漏洞.md)
-  - [海康威视综合安防管理平台信息泄露](海康威视综合安防管理平台信息泄露.md)
-  - [海康威视运行管理中心fastjson漏洞](海康威视运行管理中心fastjson漏洞.md)
-  - [海康威视iVMS综合安防系统resourceOperations接口任意文件上传漏洞](海康威视iVMS综合安防系统resourceOperations接口任意文件上传漏洞.md)
-  - [海康威视综合安防系统detection接口存在RCE漏洞](海康威视综合安防系统detection接口存在RCE漏洞.md)
-
-- 深信服
-  - [深信服SANGFOR终端检测响应平台_-_任意用户免密登录,前台RCE](深信服SANGFOR终端检测响应平台_-_任意用户免密登录,前台RCE.md)
-  - [深信服SG上网优化管理系统_catjs.php_任意文件读取漏洞](深信服SG上网优化管理系统_catjs.php_任意文件读取漏洞.md)
-  - [深信服下一代防火墙NGAF_RCE漏洞](深信服下一代防火墙NGAF_RCE漏洞.md)
-  - [深信服下一代防火墙NGAF任意文件读取漏洞](深信服下一代防火墙NGAF任意文件读取漏洞)
-  - [深信服数据中心管理系统_XML_实体注入漏洞](深信服数据中心管理系统_XML_实体注入漏洞.md)
-  - [深信服应用交付系统命令执行漏洞](某x服应用交付系统命令执行漏洞.md)
-  - [某服_sxf-报表系统命令执行漏洞](某服_sxf-报表系统命令执行漏洞.md)
-
-- 绿盟
-  - [某盟sas安全审计系统任意文件读取漏洞](某盟sas安全审计系统任意文件读取漏洞.md)
-  - [某盟_SAS堡垒机_local_user.php_任意用户登录漏洞](某盟_SAS堡垒机_local_user.php_任意用户登录漏洞.md)
-  - [某盟_SAS堡垒机_漏洞](某盟_SAS堡垒机_漏洞.md)
-  - [绿盟日志审计系统存在命令执行漏洞](绿盟日志审计系统存在命令执行漏洞.md)
-- 天融信
-  - [天融信TOPSEC_static_convert远程命令执行漏洞](天融信TOPSEC_static_convert远程命令执行漏洞.md)
-  - [天融信TOPSEC_maincgi.cgi远程命令执行](天融信TOPSEC_maincgi.cgi远程命令执行.md)
-- 泛微
-  - [泛微e-cology9_SQL注入-CNVD-2023-12632](泛微e-cology9_SQL注入-CNVD-2023-12632.md)
-  - [泛微E-MobileServer远程命令执行漏洞](泛微E-MobileServer远程命令执行漏洞.md)
-  - [泛微e-office_未授权访问](泛微e-office_未授权访问.md)
-  - [泛微_HrmCareerApplyPerView_sql注入漏洞](泛微_HrmCareerApplyPerView_sql注入漏洞.md)
-  - [泛微云桥_e-Bridge_addTaste接口SQL注入漏洞](泛微云桥_e-Bridge_addTaste接口SQL注入漏洞.md)
-  - [泛微E-Office9文件上传漏洞_CVE-2023-2523.md](某微E-Office9文件上传漏洞_CVE-2023-2523.md)
-  - [泛微E-Office9文件上传漏洞_CVE-2023-2648](某微E-Office9文件上传漏洞_CVE-2023-2648.md)
-  - [泛微_E-Cology_某版本_SQL注入漏洞](某微_E-Cology_某版本_SQL注入漏洞.md)
-  - [泛微移动管理平台lang2sql接口任意文件上传](泛微移动管理平台lang2sql接口任意文件上传.md)
-
-- 万户OA
-  - [万户ezoffice_wpsservlet任意文件上传漏洞](万户ezoffice_wpsservlet任意文件上传漏洞.md)
-  - [万户OA-upload任意文件上传漏洞](万户OA-upload任意文件上传漏洞.md)
-  - [万户_ezOFFICE_DocumentEdit.jsp_SQL注入](万户_ezOFFICE_DocumentEdit.jsp_SQL注入.md)
-  - [万户协同办公平台存在未授权访问漏洞](万户协同办公平台存在未授权访问漏洞.md)
-  - [万户协同办公平台接口存在文件上传漏洞](万户协同办公平台接口存在文件上传漏洞.md)
-  - [万户OA text2Html接口存在任意文件读取漏洞](万户OA-text2Html-接口存在任意文件读取漏洞.md)
-  - [万户OA-RhinoScriptEngineService命令执行漏洞](万户OA-RhinoScriptEngineService命令执行漏洞.md)
 
 - CloudPanel
   - [CloudPanel_RCE漏洞](CloudPanel_RCE漏洞.md)
@@ -169,6 +118,80 @@
 - RuoYi
   - [RuoYi4.6.0_SQL注入漏洞CVE-2023-49371](RuoYi4.6.0_SQL注入漏洞CVE-2023-49371.md)
   - [RUOYI-v4.7.8存在远程代码执行漏洞](RUOYI-v4.7.8存在远程代码执行漏洞.md)
+
+- Smartbi
+  - [Smartbi_内置用户登陆绕过](Smartbi_内置用户登陆绕过.md)
+
+- OfficeWeb365
+  - [OfficeWeb365_文件上传漏洞](OfficeWeb365_文件上传漏洞.md)
+  - [OfficeWeb365_任意文件读取漏洞](OfficeWeb365_任意文件读取漏洞.md)
+
+- SysAid
+  - [SysAid远程命令执行漏洞（CVE-2023-47246）](SysAid远程命令执行漏洞（CVE-2023-47246）.md)
+- Splunk Enterprise
+  - [Splunk_Enterprise_远程代码执行漏洞_(CVE-2023-46214)](Splunk_Enterprise_远程代码执行漏洞_(CVE-2023-46214).md)
+- Secnet安网智能AC管理系统
+  - [Secnet安网_智能AC管理系统_actpt_5g_信息泄露](Secnet安网_智能AC管理系统_actpt_5g_信息泄露.md)
+- SpringBlade
+  - [SpringBlade-blade-log存在SQL注入漏洞](SpringBlade-blade-log存在SQL注入漏洞.md)
+- Wordpress
+  - [Wordpress_Backup_Migration_plugin_代码执行漏洞(CVE-2023-6553)](Wordpress_Backup_Migration_plugin_代码执行漏洞(CVE-2023-6553).md)
+  - [wordpress_listingo_文件上传漏洞](wordpress_listingo_文件上传漏洞.md)
+  - [WordPress插件BricksBuilder存在RCE漏洞(CVE-2024-25600)](WordPress插件BricksBuilder存在RCE漏洞(CVE-2024-25600).md)
+
+- 思科 Cisco
+  - [Cisco_IOS_XE_CVE-2023-20198权限提升漏洞](Cisco_IOS_XE_CVE-2023-20198权限提升漏洞.md)
+
+- 海康威视
+  - [HiKVISION_综合安防管理平台_任意文件上传漏洞](HiKVISION_综合安防管理平台_任意文件上传漏洞.md)
+  - [海康威视-综合安防管理平台-files-文件读取](海康威视-综合安防管理平台-files-文件读取.md)
+  - [海康威视CVE-2023-6895_IP网络对讲广播系统远程命令执行](海康威视CVE-2023-6895_IP网络对讲广播系统远程命令执行.md)
+  - [海康威视IP网络对讲广播系统任意文件下载漏洞CVE-2023-6893](海康威视IP网络对讲广播系统任意文件下载漏洞CVE-2023-6893.md)
+  - [海康威视IVMS-8700_fastjson命令执行漏洞](海康威视IVMS-8700_fastjson命令执行漏洞.md)
+  - [海康威视安全接入网关任意文件读取漏洞](海康威视安全接入网关任意文件读取漏洞.md)
+  - [海康威视综合安防管理平台信息泄露](海康威视综合安防管理平台信息泄露.md)
+  - [海康威视运行管理中心fastjson漏洞](海康威视运行管理中心fastjson漏洞.md)
+  - [海康威视iVMS综合安防系统resourceOperations接口任意文件上传漏洞](海康威视iVMS综合安防系统resourceOperations接口任意文件上传漏洞.md)
+  - [海康威视综合安防系统detection接口存在RCE漏洞](海康威视综合安防系统detection接口存在RCE漏洞.md)
+
+- 深信服
+  - [深信服SANGFOR终端检测响应平台_-_任意用户免密登录,前台RCE](深信服SANGFOR终端检测响应平台_-_任意用户免密登录,前台RCE.md)
+  - [深信服SG上网优化管理系统_catjs.php_任意文件读取漏洞](深信服SG上网优化管理系统_catjs.php_任意文件读取漏洞.md)
+  - [深信服下一代防火墙NGAF_RCE漏洞](深信服下一代防火墙NGAF_RCE漏洞.md)
+  - [深信服下一代防火墙NGAF任意文件读取漏洞](深信服下一代防火墙NGAF任意文件读取漏洞)
+  - [深信服数据中心管理系统_XML_实体注入漏洞](深信服数据中心管理系统_XML_实体注入漏洞.md)
+  - [深信服应用交付系统命令执行漏洞](某x服应用交付系统命令执行漏洞.md)
+  - [某服_sxf-报表系统命令执行漏洞](某服_sxf-报表系统命令执行漏洞.md)
+
+- 绿盟
+  - [某盟sas安全审计系统任意文件读取漏洞](某盟sas安全审计系统任意文件读取漏洞.md)
+  - [某盟_SAS堡垒机_local_user.php_任意用户登录漏洞](某盟_SAS堡垒机_local_user.php_任意用户登录漏洞.md)
+  - [某盟_SAS堡垒机_漏洞](某盟_SAS堡垒机_漏洞.md)
+  - [绿盟日志审计系统存在命令执行漏洞](绿盟日志审计系统存在命令执行漏洞.md)
+- 天融信
+  - [天融信TOPSEC_static_convert远程命令执行漏洞](天融信TOPSEC_static_convert远程命令执行漏洞.md)
+  - [天融信TOPSEC_maincgi.cgi远程命令执行](天融信TOPSEC_maincgi.cgi远程命令执行.md)
+- 泛微
+  - [泛微e-cology9_SQL注入-CNVD-2023-12632](泛微e-cology9_SQL注入-CNVD-2023-12632.md)
+  - [泛微E-MobileServer远程命令执行漏洞](泛微E-MobileServer远程命令执行漏洞.md)
+  - [泛微e-office_未授权访问](泛微e-office_未授权访问.md)
+  - [泛微_HrmCareerApplyPerView_sql注入漏洞](泛微_HrmCareerApplyPerView_sql注入漏洞.md)
+  - [泛微云桥_e-Bridge_addTaste接口SQL注入漏洞](泛微云桥_e-Bridge_addTaste接口SQL注入漏洞.md)
+  - [泛微E-Office9文件上传漏洞_CVE-2023-2523.md](某微E-Office9文件上传漏洞_CVE-2023-2523.md)
+  - [泛微E-Office9文件上传漏洞_CVE-2023-2648](某微E-Office9文件上传漏洞_CVE-2023-2648.md)
+  - [泛微_E-Cology_某版本_SQL注入漏洞](某微_E-Cology_某版本_SQL注入漏洞.md)
+  - [泛微移动管理平台lang2sql接口任意文件上传](泛微移动管理平台lang2sql接口任意文件上传.md)
+
+- 万户OA
+  - [万户ezoffice_wpsservlet任意文件上传漏洞](万户ezoffice_wpsservlet任意文件上传漏洞.md)
+  - [万户OA-upload任意文件上传漏洞](万户OA-upload任意文件上传漏洞.md)
+  - [万户_ezOFFICE_DocumentEdit.jsp_SQL注入](万户_ezOFFICE_DocumentEdit.jsp_SQL注入.md)
+  - [万户协同办公平台存在未授权访问漏洞](万户协同办公平台存在未授权访问漏洞.md)
+  - [万户协同办公平台接口存在文件上传漏洞](万户协同办公平台接口存在文件上传漏洞.md)
+  - [万户OA text2Html接口存在任意文件读取漏洞](万户OA-text2Html-接口存在任意文件读取漏洞.md)
+  - [万户OA-RhinoScriptEngineService命令执行漏洞](万户OA-RhinoScriptEngineService命令执行漏洞.md)
+
+
 - 路由器
   - [TP-LINKTL-WR940N_命令执行漏洞_CVE-2023-33538](TP-LINKTL-WR940N_命令执行漏洞_CVE-2023-33538.md)
   - [TOTOLINK_A3700R命令执行漏洞CVE-2023-46574](TOTOLINK_A3700R命令执行漏洞CVE-2023-46574.md)
@@ -339,27 +362,7 @@
   - [禅道_v18.0-v18.3_存在后台命令执行漏洞](禅道_v18.0-v18.3_存在后台命令执行漏洞.md)
 
 - 通天星
-  - [通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞](通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞.md)
-    
-- Smartbi
-  - [Smartbi_内置用户登陆绕过](Smartbi_内置用户登陆绕过.md)
-
-- OfficeWeb365
-  - [OfficeWeb365_文件上传漏洞](OfficeWeb365_文件上传漏洞.md)
-  - [OfficeWeb365_任意文件读取漏洞](OfficeWeb365_任意文件读取漏洞.md)
-
-- SysAid
-  - [SysAid远程命令执行漏洞（CVE-2023-47246）](SysAid远程命令执行漏洞（CVE-2023-47246）.md)
-- Splunk Enterprise
-  - [Splunk_Enterprise_远程代码执行漏洞_(CVE-2023-46214)](Splunk_Enterprise_远程代码执行漏洞_(CVE-2023-46214).md)
-- Secnet安网智能AC管理系统
-  - [Secnet安网_智能AC管理系统_actpt_5g_信息泄露](Secnet安网_智能AC管理系统_actpt_5g_信息泄露.md)
-- SpringBlade
-  - [SpringBlade-blade-log存在SQL注入漏洞](SpringBlade-blade-log存在SQL注入漏洞.md)
-- Wordpress
-  - [Wordpress_Backup_Migration_plugin_代码执行漏洞(CVE-2023-6553)](Wordpress_Backup_Migration_plugin_代码执行漏洞(CVE-2023-6553).md)
-  - [wordpress_listingo_文件上传漏洞](wordpress_listingo_文件上传漏洞.md)
-  - [WordPress插件BricksBuilder存在RCE漏洞(CVE-2024-25600)](WordPress插件BricksBuilder存在RCE漏洞(CVE-2024-25600).md)
+  - [通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞](通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞.md)  
 
 - 浙大恩特客户资源管理系统
   - [浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞](浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞.md)
