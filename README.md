@@ -1,6 +1,10 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
+## 2024.03.28 新增漏洞
+- 用友U8-Cloud接口FileServlet存在任意文件读取漏洞
+- 通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞
+
 ## 2024.03.14 新增漏洞
 - 亿赛通-数据泄露防护(DLP)ClientAjax接口存在任意文件读取漏洞
 - 亿赛通电子文档安全管理系统DecryptApplication存在任意文件读取漏洞
