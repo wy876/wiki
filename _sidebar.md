@@ -244,7 +244,7 @@
 - 用友
   - [用友CRM_任意文件读取漏洞](用友CRM_任意文件读取漏洞.md)
   - [用友GRP-U8存在XML注入漏洞](用友GRP-U8存在XML注入漏洞.md)
-    [用友nc-cloud_RCE](用友nc-cloud_RCE.md)
+  - [用友nc-cloud_RCE](用友nc-cloud_RCE.md)
   - [用友NC-Cloud_uploadChunk_任意文件上传漏洞](用友NC-Cloud_uploadChunk_任意文件上传漏洞.md)
   - [用友NC_word.docx任意文件读取漏洞](用友NC_word.docx任意文件读取漏洞.md)
   - [用友NC的download文件存在任意文件读取漏洞](用友NC的download文件存在任意文件读取漏洞.md)
