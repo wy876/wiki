@@ -100,6 +100,7 @@
 
 - JumpServer
   - [JumpServer未授权漏洞](JumpServer未授权漏洞.md)
+  - [JumpServer(CVE-2024-29201)远程代码执行漏洞&(CVE-2024-29202)Jinin2模板注入漏洞](JumpServer(CVE-2024-29201)远程代码执行漏洞&(CVE-2024-29202)Jinin2模板注入漏洞.md)
 - Jenkins
   - [Jenkins任意文件读取漏洞(CVE-2024-23897)](Jenkins任意文件读取漏洞(CVE-2024-23897).md)
 - Metabase 
@@ -141,6 +142,7 @@
   - [WordPress插件BricksBuilder存在RCE漏洞(CVE-2024-25600)](WordPress插件BricksBuilder存在RCE漏洞(CVE-2024-25600).md)
   - [WordPress-Automatic-Plugin任意文件下载漏洞(CVE-2024-27954)](WordPress-Automatic-Plugin任意文件下载漏洞(CVE-2024-27954).md)
   - [WordPress_Wholesale_Market插件存在任意文件读取漏洞](WordPress_Wholesale_Market插件存在任意文件读取漏洞.md)
+  - [WordPress_LayerSlider插件SQL注入漏洞(CVE-2024-2879)](WordPress_LayerSlider插件SQL注入漏洞(CVE-2024-2879).md)
 
 - 思科 Cisco
   - [Cisco_IOS_XE_CVE-2023-20198权限提升漏洞](Cisco_IOS_XE_CVE-2023-20198权限提升漏洞.md)
@@ -185,6 +187,8 @@
   - [泛微_E-Cology_某版本_SQL注入漏洞](某微_E-Cology_某版本_SQL注入漏洞.md)
   - [泛微移动管理平台lang2sql接口任意文件上传](泛微移动管理平台lang2sql接口任意文件上传.md)
   - [泛微getE9DevelopAllNameValue2接口存在任意文件读取漏洞](泛微getE9DevelopAllNameValue2接口存在任意文件读取漏洞.md)
+  - [泛微E-Office10版本小于v10.0_20240222存在远程代码执行漏洞](泛微E-Office10版本小于v10.0_20240222存在远程代码执行漏洞.md)
+  - [泛微e-cology接口getLabelByModule存在sql注入漏洞](泛微e-cology接口getLabelByModule存在sql注入漏洞.md)
 
 - 万户OA
   - [万户ezoffice_wpsservlet任意文件上传漏洞](万户ezoffice_wpsservlet任意文件上传漏洞.md)
@@ -201,6 +205,7 @@
   - [TP-LINKTL-WR940N_命令执行漏洞_CVE-2023-33538](TP-LINKTL-WR940N_命令执行漏洞_CVE-2023-33538.md)
   - [TOTOLINK_A3700R命令执行漏洞CVE-2023-46574](TOTOLINK_A3700R命令执行漏洞CVE-2023-46574.md)
   - [Tenda路由器账号密码泄露](Tenda路由器账号密码泄露.md)
+  - [TP-Link-ER7206存在命令注入漏洞](TP-Link-ER7206存在命令注入漏洞.md)
 - 亿赛通
   - [亿赛通电子文档安全管理系统远程命令执行漏洞](亿赛通电子文档安全管理系统远程命令执行漏洞.md)
   - [亿赛通电子文档平台文件上传漏洞](亿赛通电子文档平台文件上传漏洞.md)
@@ -214,6 +219,8 @@
   - [亿赛通电子文档安全管理系统NavigationAjax接口存在SQL注入漏洞](亿赛通电子文档安全管理系统NavigationAjax接口存在SQL注入漏洞.md)
   - [亿赛通电子文档安全管理系统DecryptApplication存在任意文件读取漏洞](亿赛通电子文档安全管理系统DecryptApplication存在任意文件读取漏洞.md)
   - [亿赛通-数据泄露防护(DLP)ClientAjax接口存在任意文件读取漏洞](亿赛通-数据泄露防护(DLP)ClientAjax接口存在任意文件读取漏洞.md)
+  - [亿赛通DecryptApplicationService2接口任意文件上传](亿赛通DecryptApplicationService2接口任意文件上传.md)
+  - [亿赛通update接口sql注入](亿赛通update接口sql注入.md)
 
 - 大华
   - [大华DSS_itcBulletin_SQL_注入漏洞](大华DSS_itcBulletin_SQL_注入漏洞.md)
@@ -274,6 +281,11 @@
   - [用友畅捷通RRATableController存在反序列化漏洞](用友畅捷通RRATableController存在反序列化漏洞.md)
   - [用友时空KSOA-imagefield接口存在SQL注入漏洞](用友时空KSOA-imagefield接口存在SQL注入漏洞.md)
   - [用友NC-Cloud系统runScript存在SQL注入漏洞](用友NC-Cloud系统runScript存在SQL注入漏洞.md)
+  - [用友NC接口saveXmlToFIleServlet存在文件上传](用友NC接口saveXmlToFIleServlet存在文件上传.md)
+  - [用友U8-Cloud接口FileManageServlet存在反序列漏洞](用友U8-Cloud接口FileManageServlet存在反序列漏洞.md)
+  - [用友U8-Cloud接口ServiceDispatcherServlet存在反序列漏洞](用友U8-Cloud接口ServiceDispatcherServlet存在反序列漏洞.md)
+  - [用友U9-PatchFile.asmx接口存在任意文件上传漏洞](用友U9-PatchFile.asmx接口存在任意文件上传漏洞.md)
+  - [用友NC-Cloud_importhttpscer接口存在任意文件上传漏洞](用友NC-Cloud_importhttpscer接口存在任意文件上传漏洞.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
