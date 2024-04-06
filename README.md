@@ -1,6 +1,18 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
+## 2024.04.6 新增漏洞
+- 泛微E-Office10版本小于v10.0_20240222存在远程代码执行漏洞
+- 用友NC接口saveXmlToFIleServlet存在文件上传
+- 用友U8-Cloud接口ServiceDispatcherServlet存在反序列漏洞
+- 用友U8-Cloud接口FileManageServlet存在反序列漏洞
+- 泛微e-cology接口getLabelByModule存在sql注入漏洞
+- WordPress_LayerSlider插件SQL注入漏洞(CVE-2024-2879)
+- 用友U9-PatchFile.asmx接口存在任意文件上传漏洞
+- 用友NC-Cloud_importhttpscer接口存在任意文件上传漏洞
+- 亿赛通DecryptApplicationService2接口任意文件上传
+- 亿赛通update接口sql注入
+
 ## 2024.03.28 新增漏洞
 - 用友U8-Cloud接口FileServlet存在任意文件读取漏洞
 - 通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞
@@ -68,30 +80,6 @@
 - 大华EIMS-capture_handle接口远程命令执行漏洞
 - 帮管客CRM-jiliyu接口存在SQL漏洞
 - 金蝶云-星空ServiceGateway反序列化漏洞
-
-## 2024.3.5 新增漏洞
-- RG-UAC锐捷统一上网行为管理与审计系统存在远程代码执行漏洞
-- RUOYI-v4.7.8存在远程代码执行漏洞
-- 西软云XMS-futurehotel-query接口存在XXE漏洞
-- 西软云XMS-futurehotel-operate接口存在XXE漏洞
-- 宏景eHR-HCM-DisplayExcelCustomReport接口存在任意文件读取漏洞
-- 用友U9-UMWebService.asmx存在文件读取漏洞
-- 用友U8 Cloud-KeyWordReportQuery存在SQL注入漏洞
-- 用友U8 Cloud-ArchiveVerify存在SQL注入漏洞
-- 易宝OA系统DownloadFile接口存在文件读取漏洞
-- 浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞
-- 蓝凌EIS智慧协同平台rpt_listreport_definefield.aspx接口存在SQL注入漏洞
-- 万户OA-RhinoScriptEngineService命令执行漏洞
-- 宏景DisplayFiles任意文件读取
-- 蓝凌OA-WechatLoginHelper.do存在SQL注入漏洞
-- 用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞
-- 宝塔最新未授权访问漏洞及sql注入
-- 金盘移动图书馆系统存在任意文件上传漏洞
-- Panalog大数据日志审计系统libres_syn_delete.php存在命令执行
-- WAGO系统远程代码执行漏洞(CVE-2023-1698)
-- 山石网科云鉴存在前台任意命令执行漏洞
-- Weblogic远程代码执行(CVE-2024-20931)
-
 
 ## 免责声明
 由于传播、利用本文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。所涉及工具来自网络，安全性自测。
