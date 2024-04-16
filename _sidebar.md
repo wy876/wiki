@@ -143,6 +143,8 @@
   - [WordPress-Automatic-Plugin任意文件下载漏洞(CVE-2024-27954)](WordPress-Automatic-Plugin任意文件下载漏洞(CVE-2024-27954).md)
   - [WordPress_Wholesale_Market插件存在任意文件读取漏洞](WordPress_Wholesale_Market插件存在任意文件读取漏洞.md)
   - [WordPress_LayerSlider插件SQL注入漏洞(CVE-2024-2879)](WordPress_LayerSlider插件SQL注入漏洞(CVE-2024-2879).md)
+  - [WordPress-js-support-ticket存在文件上传漏洞](WordPress-js-support-ticket存在文件上传漏洞.md)
+  - [WordPress-thimpress_hotel_booking存在代码执行漏洞](WordPress-thimpress_hotel_booking存在代码执行漏洞.md)
 
 - 思科 Cisco
   - [Cisco_IOS_XE_CVE-2023-20198权限提升漏洞](Cisco_IOS_XE_CVE-2023-20198权限提升漏洞.md)
@@ -199,6 +201,7 @@
   - [万户OA text2Html接口存在任意文件读取漏洞](万户OA-text2Html-接口存在任意文件读取漏洞.md)
   - [万户OA-RhinoScriptEngineService命令执行漏洞](万户OA-RhinoScriptEngineService命令执行漏洞.md)
   - [万户ezOFFICE-contract_gd.jsp存在SQL注入漏洞](万户ezOFFICE-contract_gd.jsp存在SQL注入漏洞.md)
+  - [万户ezOFFICE-wf_printnum.jsp存在SQL注入漏洞](万户ezOFFICE-wf_printnum.jsp存在SQL注入漏洞.md)
 
 
 - 路由器
@@ -286,6 +289,8 @@
   - [用友U8-Cloud接口ServiceDispatcherServlet存在反序列漏洞](用友U8-Cloud接口ServiceDispatcherServlet存在反序列漏洞.md)
   - [用友U9-PatchFile.asmx接口存在任意文件上传漏洞](用友U9-PatchFile.asmx接口存在任意文件上传漏洞.md)
   - [用友NC-Cloud_importhttpscer接口存在任意文件上传漏洞](用友NC-Cloud_importhttpscer接口存在任意文件上传漏洞.md)
+  - [用友U8cloud接口MeasureQueryByToolAction存在SQL注入漏洞](用友U8cloud接口MeasureQueryByToolAction存在SQL注入漏洞.md)
+  - [用友U8cloud-ExportUfoFormatAction存在SQL注入漏洞](用友U8cloud-ExportUfoFormatAction存在SQL注入漏洞.md)
 
 - 致远
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
