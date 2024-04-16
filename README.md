@@ -12,6 +12,11 @@
 - 用友NC-Cloud_importhttpscer接口存在任意文件上传漏洞
 - 亿赛通DecryptApplicationService2接口任意文件上传
 - 亿赛通update接口sql注入
+- WordPress-js-support-ticket存在文件上传漏洞
+- 用友U8cloud接口MeasureQueryByToolAction存在SQL注入漏洞
+- WordPress-thimpress_hotel_booking存在代码执行漏洞
+- 万户ezOFFICE-wf_printnum.jsp存在SQL注入漏洞
+- 用友U8cloud-ExportUfoFormatAction存在SQL注入漏洞
 
 ## 2024.03.28 新增漏洞
 - 用友U8-Cloud接口FileServlet存在任意文件读取漏洞
