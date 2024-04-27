@@ -1,6 +1,74 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
+## 2024.04.27 更新漏洞
+- JeePlus低代码开发平台存在SQL注入漏洞
+- 润乾报表InputServlet接口存在文件上传漏洞
+- D-Link-NAS(CVE-2024-3272&&CVE-2024-3273)
+- 泛微E-Mobile-client.do存在命令执行漏洞
+- 致远互联-OA前台fileUpload.do存在绕过文件上传漏洞
+- 宏景eHR人力资源管理软件showmediainfo存在SQL注入漏洞
+- 用友NC接口PaWfm存在sql注入漏洞
+- 用友NC接口ConfigResourceServlet存在反序列漏洞
+- 用友NC-runStateServlet接口存在SQL注入漏洞
+- 用友NC-workflowImageServlet接口存在sql注入漏洞
+- 畅捷通TPlus-KeyInfoList.aspx存在SQL注入漏洞
+- 畅捷通TPlus-App_Code.ashx存在远程命令执行漏洞
+- H3C_magic_R100路由器的UDPserver中存在命令执行漏洞(CVE-2022-34598)
+- 用友NC_saveImageServlet接口存在文件上传漏洞
+- 泛微e-cology-ProcessOverRequestByXml接口存在任意文件读取漏洞
+- 用友crm-swfupload接口存在任意文件上传漏洞
+- 新视窗新一代物业管理系统任意文件上传漏洞
+- Telesquare路由器RCE(CVE-2024-29269)
+- 物业专项维修资金管理系统漏洞
+- 用友NC-ActionServlet存在SQL注入漏洞
+- 潍微科技-水务信息管理平台ChangePwd接口存在SQL注入漏洞
+- OpenMetadata命令执行(CVE-2024-28255)
+- 魔方网表mailupdate.jsp接口存在任意文件上传漏洞
+- 奇安信VPN任意用户密码重置
+- 润乾报表平台InputServlet存在任意文件读取漏洞
+- 医院一站式后勤管理系统processApkUpload.upload存在任意文件上传漏洞
+- 网康科技NS-ASG应用安全网关add_ikev2.php存在SQL注入漏洞
+- 网康科技NS-ASG应用安全网关add_postlogin.php存在SQL注入漏洞
+- 网康科技NS-ASG应用安全网关config_Anticrack.php存在SQL注入漏洞
+- 网康科技NS-ASG应用安全网关config_ISCGroupNoCache.php存在SQL注入漏洞
+- 广州图创图书馆集群管理系统updOpuserPw接口存在SQL注入漏洞
+- 用友NC-uploadControl接口存在文件上传漏洞
+- SpringBlade框架dict-biz接口存在sql注入漏洞
+- 通天星CMSV6车载视频监控平台downloadLogger接口任意文件读取漏洞
+- Progress-Flowmon命令注入漏洞(CVE-2024-2389)
+- kkFileView-v4.3.0-RCE
+- draytek路由器addrouting命令执行漏洞
+- 飞企互联-FE企业运营管理平台ProxyServletUti存在任意文件读取漏洞
+- 富通天下外贸ERP任意文件上传漏洞
+- 用友NC_grouptemplet文件上传漏洞
+- 用友NC-avatar接口存在文件上传漏洞
+- PAN-OS安全设备存在命令执行漏洞(CVE-2024-3400)
+- 用友U8GRP-fastjson漏洞
+- 云时空社会化商业ERP系统validateLoginName接口处存在SQL注入漏洞
+- Linksys-RE7000无线扩展器命令执行漏洞(CVE-2024-25852)
+- IP-guard-WebServer存在权限绕过漏洞(QVD-2024-14103)
+- 用友GRP-U8-operOriztion存在SQL注入漏洞
+- 时空智友企业流程化管控系统formservice存在SQL注入漏洞
+- 泛微E-Office-jx2_config存在信息泄露漏洞
+- 泛微E-Mobile-messageType.do存在命令执行漏洞
+- 润乾报表dataSphereServlet任意文件上传
+- 若依后台定时任务存在SSRF漏洞
+- 用友NC-showcontent接口存在sql注入漏洞
+- 网动统一通信平台ActiveUC存在任意文件下载漏洞
+- 锐捷校园网自助服务系统operatorReportorRoamService存在SQL注入漏洞
+- 用友政务财务系统FileDownload存在任意文件读取漏洞
+- F-logic_DataCube3存在SQL注入漏洞(CVE-2024-31750)
+- 用友移动系统管理uploadApk接口存在任意文件上传
+- 泛微e-office系统UserSelect接口存在未授权访问漏洞
+- WIFISKY-7层流控路由器confirm.php接口处存在RCE漏洞
+- 泛微E-Office-uploadfile.php任意文件上传漏洞
+- 宏景HCM系统infoView处存在sql注入漏洞
+- 卡车卫星定位系统create存在未授权密码重置漏洞
+- 脸爱云一脸通智慧管理平台存在downloads.aspx信息泄露漏洞
+- 脸爱云一脸通智慧平台SelOperators信息泄露漏洞
+- 禅道项目管理系统身份认证绕过漏洞
+
 ## 2024.04.6 新增漏洞
 - 泛微E-Office10版本小于v10.0_20240222存在远程代码执行漏洞
 - 用友NC接口saveXmlToFIleServlet存在文件上传
@@ -54,37 +122,6 @@
 - 大华DSS数字监控系统attachment_clearTempFile.action存在SQL注入漏洞
 - 用友NC-Cloud系统runScript存在SQL注入漏洞
 
-## 2024.03.14 新增漏洞
-- 亿赛通-数据泄露防护(DLP)ClientAjax接口存在任意文件读取漏洞
-- 亿赛通电子文档安全管理系统DecryptApplication存在任意文件读取漏洞
-- 金和OA_jc6_viewConTemplate.action存在FreeMarker模板注入漏洞
-- 用友U8_Cloud-base64存在SQL注入漏洞
-- 大华智慧园区综合管理平台pageJson存在SQL注入漏洞
-- 宏景HCM-codesettree接口存在SQL注入漏洞 
-- SpringBlade blade-log存在SQL 注入漏洞
-- 宏景HCM-downlawbase接口存在SQL注入漏洞
-- 天问物业ERP系统docfileDownLoad.aspx存在任意文件读取漏洞
-- H3C 用户自助服务平台 dynamiccontent.properties.xhtml存在RCE漏洞
-- 网康科技 NS-ASG 应用安全网关 SQL注入漏洞(CVE-2024-2330)
-- 大华智慧园区clientServer接口SQL注入漏洞
-- 大华智慧园区getNewStaypointDetailQuery接口SQL注入漏洞
-- 网康NS-ASG应用安全网关singlelogin.php存在SQL注入漏洞
-- 网康科技NS-ASG应用安全网关list_ipAddressPolicy.php存在SQL注入漏洞(CVE-2024-2022)
-- 用友NC-saveDoc.ajax存在任意文件上传漏洞
-- 亿赛通电子文档安全管理系统NavigationAjax接口存在SQL注入漏洞
-- 海康威视综合安防系统detection接口存在RCE漏洞
-- H3C-校园网自助服务系统flexfileupload任意文件上传漏洞
-- 绿盟日志审计系统存在命令执行漏洞
-- JetBrains TeamCity 身份验证绕过漏洞(CVE-2024-27198)
-- H3C-SecParh堡垒机任意用户登录漏洞
-- 红帆ioffice-udfGetDocStep.asmx存在SQL注入漏洞
-- 致远前台任意用户密码修改
-- JEEVMS仓库管理系统任意文件读取漏洞
-- 海康威视iVMS综合安防系统resourceOperations接口任意文件上传漏洞
-- WordPress插件Bricks Builder存在RCE漏洞(CVE-2024-25600)
-- 大华EIMS-capture_handle接口远程命令执行漏洞
-- 帮管客CRM-jiliyu接口存在SQL漏洞
-- 金蝶云-星空ServiceGateway反序列化漏洞
 
 ## 免责声明
 由于传播、利用本文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。所涉及工具来自网络，安全性自测。
