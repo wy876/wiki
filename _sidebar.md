@@ -209,6 +209,7 @@
   - [TOTOLINK_A3700R命令执行漏洞CVE-2023-46574](TOTOLINK_A3700R命令执行漏洞CVE-2023-46574.md)
   - [Tenda路由器账号密码泄露](Tenda路由器账号密码泄露.md)
   - [TP-Link-ER7206存在命令注入漏洞](TP-Link-ER7206存在命令注入漏洞.md)
+  - [D-Link-NAS(CVE-2024-3272&&CVE-2024-3273)](D-Link-NAS(CVE-2024-3272&&CVE-2024-3273).md)
 - 亿赛通
   - [亿赛通电子文档安全管理系统远程命令执行漏洞](亿赛通电子文档安全管理系统远程命令执行漏洞.md)
   - [亿赛通电子文档平台文件上传漏洞](亿赛通电子文档平台文件上传漏洞.md)
@@ -475,11 +476,15 @@
   - [福建科立讯通信指挥调度平台get_extension_yl.php存在sql注入漏洞](福建科立讯通信指挥调度平台get_extension_yl.php存在sql注入漏洞.md)
   - [福建科立讯通信有限公司指挥调度管理平台RCE](福建科立讯通信有限公司指挥调度管理平台RCE.md)
 
+- JeePlus低代码开发平台
+  - [JeePlus低代码开发平台存在SQL注入漏洞](JeePlus低代码开发平台存在SQL注入漏洞.md)
+- 润乾报表
+  - [润乾报表InputServlet接口存在文件上传漏洞](润乾报表InputServlet接口存在文件上传漏洞.md)
+
+
+
 - [湖南建研-检测系统_admintool_任意文件上传](湖南建研-检测系统_admintool_任意文件上传.md)
 - [睿因_Wavlink_WL_WNJ575A3_远程命令执行](睿因_Wavlink_WL_WNJ575A3_远程命令执行.md)
-
-
-
 - [青藤云_EDR_权限提升漏洞](青藤云_EDR_权限提升漏洞.md)
 - [赛思_SuccezBl前台任意文件上传](赛思_SuccezBl前台任意文件上传.md)
 - [安美数字酒店宽带运营系统SQL注入漏洞](安美数字酒店宽带运营系统SQL注入漏洞.md)
