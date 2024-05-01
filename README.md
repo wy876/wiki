@@ -1,7 +1,54 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
+
+
+## 2024.05.01 更新漏洞
+
+- 亿赛通电子文档安全管理系统-jlockseniordao-findbylockname-sql注入漏洞
+- 亿赛通电子文档安全管理系统-MailMessageLogServices反序列漏洞
+- 亿赛通电子文档安全管理系统RestoreFiles任意文件读取漏洞
+- 蓝网科技临床浏览系统-deleteStudy-SQL注入漏洞复现(CVE-2024-4257)
+- Pkpmbs建设工程质量监督系统FileUpOrDown.ashx存在文件上传漏洞
+- Mingsoft-MCMS前台查询文章列表接口SQL注入(CNVD-2024-06148)
+- 广州图书馆集群系统WebBookNew存在SQL注入漏洞
+- Likeshop-formimage任意文件上传
+- X2Modbus网关GetUser接口存在信息泄漏漏洞
+- WordPress-Automatic插件存在SQL注入漏洞(CVE-2024-27956)
+- 北京中科聚网一体化运营平台catchByUrl存在文件上传漏洞
+- LiveGBS存在逻辑缺陷漏洞(CNVD-2023-72138)
+- 北京亚控科技KingPortal开发系统漏洞集合
+- MajorDoMo-thumb.php未授权RCE漏洞复现(CNVD-2024-02175)
+- 普元EOS-Platform-eos.jmx存在远程代码执行漏洞
+- 普元EOS-Platform-jmx.jmx存在远程代码执行漏洞(XVE-2023-24691)
+- 湖南建研质量监测系统upload.ashx文件上传漏洞
+- 脸爱云一脸通智慧管理平台存在UpLoadPic.ashx文件上传漏洞
+- ZenML服务器远程权限提升漏洞(CVE-2024-25723)
+- WordPress插件NotificationX存在sql注入漏洞(CVE-2024-1698)
+- CrushFTP服务器端模板注入(CVE-2024-4040)
+- 通达OA-WHERE_STR存在前台SQL注入漏洞
+- 用友U8-Cloud-TableInputOperServlet存在反序列化漏洞
+- 用友GRP-U8-slbmbygr.jsp存在SQL注入漏洞
+- 用友GRP-U8-listSelectDialogServlet存在SQL注入
+- 用友GRP-U8-bx_dj_check.jsp存在SQL注入
+- 用友GRP-U8-obr_zdybxd_check.jsp存在SQL注入
+- 用友GRP-U8-userInfoWeb存在SQL注入
+- 用友GRP-U8-dialog_moreUser_check.jsp前台SQL注入
+- 用友GRP-U8-Proxy存在SQL注入漏洞
+- 用友GRP-U8-sqcxIndex.jsp存在SQL注入漏洞
+- 用友GRP-U8-FileUpload任意文件上传
+- 用友GRP-U8-UploadFileData任意文件上传
+- 用友GRP-U8-ufgovbank存在XXE漏洞
+- 用友GRP-U8-PayReturnForWcp接口存在XXE漏洞
+- 用友GRP-U8日志泄漏漏洞
+- 用友GRP-U8-obr_zdybxd_check存在sql注入漏洞
+- 用友畅捷通TPlus-InitServerInfo存在SQL注入漏洞
+- 用友畅捷通-TPlus-CheckMutex存在sql注入漏洞
+- 用友畅捷通TPlus-DownloadProxy.aspx任意文件读取漏洞
+- 用友畅捷通CRM-create_site.phpSQL注入漏洞
+
 ## 2024.04.27 更新漏洞
+
 - JeePlus低代码开发平台存在SQL注入漏洞
 - 润乾报表InputServlet接口存在文件上传漏洞
 - D-Link-NAS(CVE-2024-3272&&CVE-2024-3273)
