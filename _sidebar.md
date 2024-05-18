@@ -559,18 +559,12 @@
   - [飞企互联-FE企业运营管理平台ProxyServletUti存在任意文件读取漏洞](飞企互联-FE企业运营管理平台ProxyServletUti存在任意文件读取漏洞.md)
 
 - 电信网关配置管理
-
-
   - [电信网关配置管理后台ipping.php存在命令执行漏洞](电信网关配置管理后台ipping.php存在命令执行漏洞.md)
-
 
 - 瑞友天翼应用虚拟化系统
   - [瑞友天翼应用虚拟化系统appsave接口存在SQL注入漏洞](瑞友天翼应用虚拟化系统appsave接口存在SQL注入漏洞.md)
   - [瑞友应用虚拟化系统-RAPAgent存在命令执行漏洞](瑞友应用虚拟化系统-RAPAgent存在命令执行漏洞.md)
-
-
 - 明源云
-
   - [明源云_ERP_ApiUpdate.ashx_文件上传漏洞](明源云_ERP_ApiUpdate.ashx_文件上传漏洞.md)
 
 - 帆软报表
@@ -655,9 +649,7 @@
 
 - 微擎
 
-    - [微擎-AccountEdit-file-upload文件上传漏洞](微擎-AccountEdit-file-upload文件上传漏洞.md)
-
-
+  - [微擎-AccountEdit-file-upload文件上传漏洞](微擎-AccountEdit-file-upload文件上传漏洞.md)
 
 - Ncast高清智能录播系统
   - [Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305)](Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305).md)
@@ -673,13 +665,11 @@
 
 - 和丰多媒体信息发布系统
 
-    - [和丰多媒体信息发布系统QH.aspx存在文件上传漏洞](和丰多媒体信息发布系统QH.aspx存在文件上传漏洞.md)
+  - [和丰多媒体信息发布系统QH.aspx存在文件上传漏洞](和丰多媒体信息发布系统QH.aspx存在文件上传漏洞.md)
 
 - 科拓全智能停车收费系统
   - [科拓全智能停车收费系统DoubtCarNoListFrom.aspx存在SQL注入漏洞](科拓全智能停车收费系统DoubtCarNoListFrom.aspx存在SQL注入漏洞.md)
   - [科拓全智能停车收费系统Webservice.asmx存在任意文件上传](科拓全智能停车收费系统Webservice.asmx存在任意文件上传.md)
-
-
 
 
 - [湖南建研-检测系统_admintool_任意文件上传](湖南建研-检测系统_admintool_任意文件上传.md)
