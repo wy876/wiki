@@ -3,6 +3,56 @@
 
 
 
+## 2024.05.18 更新漏洞
+
+- 英飞达医学影像存档与通信系统WebJobUpload任意文件上传漏洞
+- 佳会视频会议attachment任意文件读取
+- 六零导航页存在任意文件上传漏洞
+- SeaCMS海洋影视管理系统dmku存在SQL注入漏洞
+- 用友CRM系统uploadfile.php接口存在任意文件上传
+- 安达通TPN-2G安全网关远程代码执行
+- 科拓全智能停车收费系统DoubtCarNoListFrom.aspx存在SQL注入漏洞
+- 科拓全智能停车收费系统Webservice.asmx存在任意文件上传
+- 用友NC系统registerServlet接口存在JNDI注入漏洞
+- 微擎-AccountEdit-file-upload文件上传漏洞
+- RuvarOA协同办公平台多处存在SQL注入漏洞
+- 微厦在线学习平台OrganSetup存在任意文件上传漏洞
+- 泛微E-Cology系统接口SignatureDownLoad存在SQL注入漏洞
+- 用友NC系统printBill接口存在任意文件读取漏洞
+- 泛微-OA系统ResourceServlet接口任意文件读取漏洞
+- 锐捷网络flwo.control.php存在RCE漏洞
+- 亿赛通电子文档安全管理系统-UploadFileManagerService-任意文件读取漏洞
+- 大华ICC智能物联综合管理平台存在fastjson漏洞
+- 联软安渡UniNXG安全数据交换系统poserver.zz存在任意文件读取漏洞
+- 世纪信通管理系统DownLoadFiles.ashx存在任意文件读取
+- 亿赛通电子文档安全管理系统downloadfromfile存在任意文件读取漏洞
+- 用友畅捷通TPlus-keyEdit.aspx接口存在SQL注入漏洞
+- 用友时空KSOA-linkadd.jsp存在SQL注入漏洞
+- MetaCRM客户关系管理系统任意文件上传漏洞
+- 用友U8-CRM客户关系管理系统getemaildata.php任意文件上传漏洞
+- 电信网关配置管理后台ipping.php存在命令执行漏洞
+- 瑞友天翼应用虚拟化系统appsave接口存在SQL注入漏洞
+- 泛微OA-E-Cology-FileDownload文件读取漏洞
+- 用友GRPA++Cloud政府财务云存在任意文件读取漏洞
+- 红海云eHR-PtFjk.mob存在任意文件上传漏洞
+- 福建科立讯通信指挥调度管理平台ajax_users.php存在SQL注入漏洞
+- 金和OAC6-FileDownLoad.aspx任意文件读取漏洞
+- F5-BIG-IP存在SQL注入漏洞(CVE-2024-26026)&(CVE-2024-21793)
+- Mura-CMS-processAsyncObject存在SQL注入漏洞(CVE-2024-32640)
+- 中移铁通禹路由器信息泄露漏洞
+- 致远M3敏感信息泄露漏洞
+- Jan任意文件上传漏洞
+- Jeecg任意文件上传漏洞
+- 医院挂号系统SQL注入
+- 和丰多媒体信息发布系统QH.aspx存在文件上传漏洞
+- 用友NC-bill存在SQL注入漏洞
+- 用友U8-CRM客户关系管理系统downloadfile.php存在任意文件读取漏洞
+- OpenMetadata-SpEL注入(CVE-2024-28848)
+- OpenMetadata命令执行漏洞(CVE-2024-28253)
+- Ncast高清智能录播系统存在任意文件读取漏洞
+- AJ-Report开源数据大屏存在远程命令执行漏洞
+- 大华智慧园区综合管理平台ipms接口存在远程代码执行漏洞
+
 ## 2024.05.01 更新漏洞
 
 - 亿赛通电子文档安全管理系统-jlockseniordao-findbylockname-sql注入漏洞
