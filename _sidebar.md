@@ -70,7 +70,7 @@
   - [JetBrainsTeamCity身份验证绕过漏洞(CVE-2024-27198)](JetBrainsTeamCity身份验证绕过漏洞(CVE-2024-27198).md)
 
 - CloudPanel
-  - [CloudPanel_RCE漏洞](CloudPanel_RCE漏洞.md)
+  - [CloudPanel_RCE漏洞](CloudPanel_RCE漏洞_CVE-2023-35885.md)
 
 - Craft
   - [Craft_CMS远程代码执行漏洞CVE-2023-41892](Craft_CMS远程代码执行漏洞CVE-2023-41892.md)
