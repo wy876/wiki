@@ -1,19 +1,12 @@
 # 漏洞文库
 将https://github.com/wy876/POC 中的poc/exp 使用docsify分类整理，方便查看
 
-
-
 ## 2024.05.25 更新漏洞
-
 - 瑞星EDR-XSS漏洞可打管理员cookie
-
 - 金山云EDR任意文件上传漏洞
-
 - HM发卡网反序列化漏洞
-
 - Nexus未授权目录穿越漏洞(CVE-2024-4956)
 - 泛微E-cology-LoginSSO.jsp存在QL注入漏洞(CNVD-2021-33202)
-
 - 致远OAV52019系统properties信息泄露漏洞
 - GeoServer系统wms接口存在远程命令执行漏洞
 - 用友NC-complainbilldetail存在SQL注入漏洞
@@ -26,7 +19,6 @@
 - 泛微OA-E-Cology-Getdata.jsp存在SQL注入漏洞
 - 蓝海卓越计费管理系统SQL注入漏洞
 - 铭飞CMS-search接口存在sql注入漏洞
-
 - QNAP-QTS溢出导致的未授权RCE漏洞(CVE-2024-27130)
 - Zabbix-Serve-SQL注入漏洞(CVE-2024-22120)
 - 山东聚恒网络技术有限公司聚恒中台data.ashx存在SQL注入漏洞
@@ -55,7 +47,6 @@
 - 蓝海卓越计费管理系统存在download.php任意文件读取漏洞
 
 ## 2024.05.18 更新漏洞
-
 - 英飞达医学影像存档与通信系统WebJobUpload任意文件上传漏洞
 - 佳会视频会议attachment任意文件读取
 - 六零导航页存在任意文件上传漏洞
