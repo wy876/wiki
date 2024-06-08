@@ -602,8 +602,6 @@
   - [广联达-linkworks-gwgdwebservice存在SQL注入漏洞](广联达-linkworks-gwgdwebservice存在SQL注入漏洞.md)
   
 - 全程云OA
-  
-  
   - [全程云OA-svc.asmxSQL注入漏洞](全程云OA-svc.asmxSQL注入漏洞.md)
   
 - 宏景OA
@@ -653,17 +651,13 @@
   - [协达OA系统绕过登录认证登陆后台](协达OA系统绕过登录认证登陆后台.md)
 
 - 红海云eHR
-
-
   - [红海云eHR-PtFjk.mob存在任意文件上传漏洞](红海云eHR-PtFjk.mob存在任意文件上传漏洞.md)
 
 - 金山
-
   - [金山EDR_RCE漏洞](金山EDR_RCE漏洞.md)
   - [金山WPS_RCE](金山WPS_RCE.md)
   - [金山终端安全系统V9.0_SQL注入漏洞](金山终端安全系统V9.0_SQL注入漏洞.md)
   - [金山终端安全系统V9任意文件上传漏洞](金山终端安全系统V9任意文件上传漏洞.md)
-
 - 锐捷
   - [锐捷-EG易网关存在RCE漏洞](锐捷-EG易网关存在RCE漏洞.md)
   - [锐捷RG-UAC统一上网行为管理与审计系统管理员密码泄露](锐捷RG-UAC统一上网行为管理与审计系统管理员密码泄露.md)
@@ -806,39 +800,31 @@
   - [广州图书馆集群系统WebBookNew存在SQL注入漏洞](广州图书馆集群系统WebBookNew存在SQL注入漏洞.md)
 
 - 中国移动
-
-
   - [中国移动云控制台存在任意文件读取](中国移动云控制台存在任意文件读取.md)
 
 - 云时空
-
   - [云时空社会化商业ERP任意文件上传](云时空社会化商业ERP任意文件上传.md)
   - [云时空社会化商业ERP系统validateLoginName接口处存在SQL注入漏洞](云时空社会化商业ERP系统validateLoginName接口处存在SQL注入漏洞.md)
   - [时空智友企业流程化管控系统formservice存在SQL注入漏洞](时空智友企业流程化管控系统formservice存在SQL注入漏洞.md)
 
 - 潍微科技
   - [潍微科技-水务信息管理平台ChangePwd接口存在SQL注入漏洞](潍微科技-水务信息管理平台ChangePwd接口存在SQL注入漏洞.md)
-
 - 魔方网表
   - [魔方网表mailupdate.jsp接口存在任意文件上传漏洞](魔方网表mailupdate.jsp接口存在任意文件上传漏洞.md)
 
 - 微擎
-
   - [微擎-AccountEdit-file-upload文件上传漏洞](微擎-AccountEdit-file-upload文件上传漏洞.md)
 
 - Ncast高清智能录播系统
   - [Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305)](Ncast盈可视高清智能录播系统存在RCE漏洞(CVE-2024-0305).md)
   - [Ncast高清智能录播系统存在任意文件读取漏洞](Ncast高清智能录播系统存在任意文件读取漏洞.md)
 
-
 - 中成科信票务管理系统
-
   - [中成科信票务管理系统ReserveTicketManagerPlane.ashx存在SQL注入漏洞](中成科信票务管理系统ReserveTicketManagerPlane.ashx存在SQL注入漏洞.md)
 
 - 普元EOS-Platform
   - [普元EOS-Platform-eos.jmx存在远程代码执行漏洞](普元EOS-Platform-eos.jmx存在远程代码执行漏洞.md)
   - [普元EOS-Platform-jmx.jmx存在远程代码执行漏洞(XVE-2023-24691)](普元EOS-Platform-jmx.jmx存在远程代码执行漏洞(XVE-2023-24691).md)
-
 
 - 和丰多媒体信息发布系统
 
@@ -916,8 +902,6 @@
 
     - [青藤云_EDR_权限提升漏洞](青藤云_EDR_权限提升漏洞.md)
 
-
-
 - 赛思
 
     - [赛思_SuccezBl前台任意文件上传](赛思_SuccezBl前台任意文件上传.md)
@@ -967,24 +951,16 @@
 
 
 - 企望制造_ERP
-
     - [企望制造_ERP_comboxstore.action_远程命令执行漏洞](企望制造_ERP_comboxstore.action_远程命令执行漏洞.md)
 
 
 
 - 华为Auth-Http
-
     - [华为Auth-Http_Serve任意文件读取](华为Auth-Http_Serve任意文件读取.md)
 
 
-
 - Typora
-
-
-    - [基于Typora_DOM的跨站点脚本导致远程代码执行（CVE-2023-2317）](基于Typora_DOM的跨站点脚本导致远程代码执行（CVE-2023-2317）.md)
-
-
-
+  - [基于Typora_DOM的跨站点脚本导致远程代码执行（CVE-2023-2317）](基于Typora_DOM的跨站点脚本导致远程代码执行（CVE-2023-2317）.md)
   - [多个防火墙产品RCE](多个防火墙产品RCE.md)
 
 
