@@ -1,6 +1,55 @@
 # 漏洞文库
 将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
 
+## 2024.7.27 更新漏洞
+
+- 通天星CMSV6车载视频监控平台disable存在SQL注入
+- 创客13星零售商城系统前台任意文件上传漏洞
+- 建文工程管理系统BusinessManger.ashx存在SQL注入漏洞
+- 天问物业ERP系统AreaAvatarDownLoad.aspx任意文件读取漏洞
+- 致远OA系统constDef接口存在代码执行漏洞
+- 启明星辰天玥网络安全审计系统SQL注入漏洞
+- Bazarr任意文件读取(CVE-2024-40348)
+- 浪潮云财务系统bizintegrationwebservice.asmx存在命令执行漏洞
+- 建文工程管理系统desktop.ashx存在SQL注入漏洞
+- 帆软系统ReportServer存在SQL注入漏洞导致RCE
+- WVP视频平台(国标28181)未授权SQL注入漏洞
+- 用友NC系统querygoodsgridbycode接口code参数存在SQL注入漏洞
+- 锐捷RG-NBS2026G-P交换机WEB管理ping.htm未授权访问漏洞
+- 华磊科技物流modifyInsurance存在sql注入漏洞
+- 华磊科技物流getOrderTrackingNumber存在sql注入漏洞
+- 泛微E-Mobile系统接口installOperate.do存在SSRF漏洞
+- 润乾报表dataSphereServlet接口存在任意文件读取漏洞
+- 联软安渡系统接口queryLinklnfo存在SQL注入漏洞
+- 科讯一卡通管理系统get_kq_tj_today存在SQL注入漏洞
+- 科讯一卡通管理系统dormitoryHealthRanking存在SQL注入漏洞
+- Apache-CloudStack中的SAML身份验证漏洞(CVE-2024-41107)
+- 飞讯云MyImportData前台SQL注入(XVE-2024-18113)
+- 资管云comfileup.php前台文件上传漏洞(XVE-2024-18154)
+- 金和OA-C6-GeneralXmlhttpPage.aspx存在SQL注入漏洞
+- 汇智ERP接口filehandle.aspx存在任意文件读取漏洞
+- 赛蓝企业管理系统GetJSFile存在任意文件读取漏洞
+- 赛蓝企业管理系统ReadTxtLog存在任意文件读取漏洞
+- 通达OAV11.10接口login.php存在SQL注入漏洞
+- 泛微e-cology9接口WorkPlanService前台SQL注入漏洞(XVE-2024-18112)
+- 宏脉医美行业管理系统DownLoadServerFile任意文件读取下载漏洞
+- Sharp多功能打印机未授权访问漏洞
+- 天问物业ERP系统ContractDownLoad存在任意文件读取漏洞
+- 金慧综合管理信息系统LoginBegin.aspx存在SQL注入漏洞
+- 红海云eHR系统kgFile.mob存在任意文件上传漏洞
+- 华天动力OA系统downloadWpsFile存在任意文件读取漏洞
+- 邦永PM2项目管理平台系统ExcelIn.aspx存在任意文件上传漏洞
+- 用友NC系统接口UserAuthenticationServlet存在反序列化RCE漏洞(XVE-2024-18302)
+- 用友NC及U8cloud系统接口LoggingConfigServlet存在反序列化漏洞(XVE-2024-18151)
+- 金万维-云联应用系统接入平台GNRemote.dll前台存在RCE漏洞
+- 天问物业ERP系统OwnerVacantDownLoad存在任意文件读取漏洞
+- 天问物业ERP系统VacantDiscountDownLoad存在任意文件读取漏洞
+- 浪潮云财务系统xtdysrv.asmx存在命令执行漏洞
+- 瑞斯康达-多业务智能网关-RCE
+- 超级猫签名APP分发平台前台存在SQL注入漏洞
+- 超级猫签名APP分发平台前台远程文件写入漏洞
+- T18-1TOTOLINK-A6000R-远程命令执行漏洞
+
 ## 2024.7.20 更新漏洞
 
 - WebLogic远程代码执行漏洞(CVE-2024-21006)
