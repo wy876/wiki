@@ -1,6 +1,26 @@
 # 漏洞文库
 将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
 
+## 2024.07.30 新增漏洞
+
+- RAISECOM网关设备list_base_config.php存在远程命令执行漏洞
+- 用友时空KSOA系统接口PreviewKPQT.jsp存在SQL注入漏洞
+- 用友时空KSOA系统接口PrintZP.jsp存在SQL注入漏洞
+- 用友时空KSOA系统接口PrintZPYG.jsp存在SQL注入漏洞
+- 用友时空KSOA系统接口PrintZPFB.jsp存在SQL注入漏洞
+- 用友时空KSOA系统接口PrintZPZP.jsp存在SQL注入漏洞
+- 用友时空KSOA系统接口fillKP.jsp存在SQL注入漏洞
+- 拓尔思TRS媒资管理系统uploadThumb存在文件上传漏洞
+- 方天云智慧平台系统GetCompanyItem存在sql注入漏洞
+- 用友畅捷通-TPlus系统接口ajaxpro存在ssrf漏洞
+- 泛微e-cology接口HrmService前台SQL注入漏洞
+- 杭州雄威餐厅数字化综合管理平台存在存在绕过认证导致任意密码重置漏洞
+- 用友U9系统DoQuery接口存在SQL注入
+- 泛微ecology系统setup接口存在信息泄露漏洞
+- eking管理易FileUpload接口存在任意文件上传漏洞
+- SpringBlade系统menu接口存在SQL注入漏洞
+- JeecgBoot反射型XSS漏洞
+
 ## 2024.7.27 更新漏洞
 
 - 通天星CMSV6车载视频监控平台disable存在SQL注入

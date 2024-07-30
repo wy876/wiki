@@ -88,6 +88,7 @@
 - JeecgBoot
   - [JeecgBoot漏洞](JeecgBoot漏洞.md)
   - [Jeecg任意文件上传漏洞](Jeecg任意文件上传漏洞.md)
+  - [JeecgBoot反射型XSS漏洞](JeecgBoot反射型XSS漏洞.md)
 - iDocView
   - [I_Doc_View任意文件上传漏洞](I_Doc_View任意文件上传漏洞.md)
   - [iDocView_upload接口任意文件读取](iDocView_upload接口任意文件读取.md)
@@ -155,6 +156,7 @@
 - SpringBlade
   - [SpringBlade-blade-log存在SQL注入漏洞](SpringBlade-blade-log存在SQL注入漏洞.md)
   - [SpringBlade框架dict-biz接口存在sql注入漏洞](SpringBlade框架dict-biz接口存在sql注入漏洞.md)
+  - [SpringBlade系统menu接口存在SQL注入漏洞](SpringBlade系统menu接口存在SQL注入漏洞.md)
 - Wordpress
   - [Wordpress_Backup_Migration_plugin_代码执行漏洞(CVE-2023-6553)](Wordpress_Backup_Migration_plugin_代码执行漏洞(CVE-2023-6553).md)
   - [wordpress_listingo_文件上传漏洞](wordpress_listingo_文件上传漏洞.md)
@@ -309,6 +311,8 @@
   - [泛微E-office-10接口leave_record.php存在SQL注入漏洞](泛微E-office-10接口leave_record.php存在SQL注入漏洞.md)
   - [泛微E-Mobile系统接口installOperate.do存在SSRF漏洞](泛微E-Mobile系统接口installOperate.do存在SSRF漏洞.md)
   - [泛微e-cology9接口WorkPlanService前台SQL注入漏洞(XVE-2024-18112)](泛微e-cology9接口WorkPlanService前台SQL注入漏洞(XVE-2024-18112).md)
+  - [泛微ecology系统setup接口存在信息泄露漏洞](泛微ecology系统setup接口存在信息泄露漏洞.md)
+  - [泛微e-cology接口HrmService前台SQL注入漏洞](泛微e-cology接口HrmService前台SQL注入漏洞.md)
 - **万户OA**
   - [万户ezoffice_wpsservlet任意文件上传漏洞](万户ezoffice_wpsservlet任意文件上传漏洞.md)
   - [万户OA-upload任意文件上传漏洞](万户OA-upload任意文件上传漏洞.md)
@@ -400,222 +404,122 @@
   - [网康科技NS-ASG应用安全网关config_ISCGroupNoCache.php存在SQL注入漏洞](网康科技NS-ASG应用安全网关config_ISCGroupNoCache.php存在SQL注入漏洞.md)
 - **用友**
   - [用友CRM_任意文件读取漏洞](用友CRM_任意文件读取漏洞.md)
-  
   - [用友GRP-U8存在XML注入漏洞](用友GRP-U8存在XML注入漏洞.md)
-  
   - [用友nc-cloud_RCE](用友nc-cloud_RCE.md)
-  
   - [用友NC-Cloud_uploadChunk_任意文件上传漏洞](用友NC-Cloud_uploadChunk_任意文件上传漏洞.md)
-  
   - [用友NC_word.docx任意文件读取漏洞](用友NC_word.docx任意文件读取漏洞.md)
-  
   - [用友NC的download文件存在任意文件读取漏洞](用友NC的download文件存在任意文件读取漏洞.md)
-  
   - [用友U8-cloud_RegisterServlet接口存在SQL注入漏洞](用友U8-cloud_RegisterServlet接口存在SQL注入漏洞.md)
-  
   - [用友U8-Cloud_upload任意文件上传漏洞](用友U8-Cloud_upload任意文件上传漏洞.md)
-  
   - [用友_GRP-U8_bx_historyDataCheck.jsp_SQL注入漏洞](用友_GRP-U8_bx_historyDataCheck.jsp_SQL注入漏洞.md)
-  
   - [用友_GRP_U8_license_check.jsp_存在SQL注入](用友_GRP_U8_license_check.jsp_存在SQL注入.md)
-  
   - [用友_NC_Cloud_jsinvoke_任意文件上传漏洞](用友_NC_Cloud_jsinvoke_任意文件上传漏洞.md)
-  
   - [用友_NC_uapws_wsdl_XXE漏洞](用友_NC_uapws_wsdl_XXE漏洞.md)
-  
   - [某友时空KSOA_PayBill_SQL注入漏洞](某友时空KSOA_PayBill_SQL注入漏洞.md)
-  
   - [用友U8_cloud_KeyWordDetailReportQuery_SQL注入漏洞](用友U8_cloud_KeyWordDetailReportQuery_SQL注入漏洞.md)
-  
   - [用友NC_Cloud_soapFormat.ajax接口存在XXE](用友NC_Cloud_soapFormat.ajax接口存在XXE.md)
-  
   - [用友CRM系统存在逻辑漏洞直接登录后台](用友CRM系统存在逻辑漏洞直接登录后台.md)
-  
   - [用友NC_CLOUD_smartweb2.RPC.d_XML外部实体注入](用友NC_CLOUD_smartweb2.RPC.d_XML外部实体注入.md)
-  
   - [用友移动管理平台任意文件上传漏洞](用友移动管理平台任意文件上传漏洞.md)
-  
   - [用友GRP-U8-SelectDMJE.jsp_SQL注入漏洞](用友GRP-U8-SelectDMJE.jsp_SQL注入漏洞.md)
-  
   - [用友移动系统管理-getFileLocal-接口存在任意文件读取](用友移动系统管理-getFileLocal-接口存在任意文件读取.md)
-  
   - [用友系统-U9企业版存在任意文件上传漏洞](用友系统-U9企业版存在任意文件上传漏洞.md)
-  
   - [用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞](用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞.md)
-  
   - [用友U8-Cloud-ArchiveVerify存在SQL注入漏洞](用友U8-Cloud-ArchiveVerify存在SQL注入漏洞.md)
-  
   - [用友U8-Cloud-KeyWordReportQuery存在SQL注入漏洞](用友U8-Cloud-KeyWordReportQuery存在SQL注入漏洞.md)
-  
   - [用友U9-UMWebService.asmx存在文件读取漏洞](用友U9-UMWebService.asmx存在文件读取漏洞.md)
-  
   - [用友NC-saveDoc.ajax存在任意文件上传漏洞](用友NC-saveDoc.ajax存在任意文件上传漏洞.md)
-  
   - [用友U8_Cloud-base64存在SQL注入漏洞](用友U8_Cloud-base64存在SQL注入漏洞.md)
-  
   - [用友U8-Cloud接口FileServlet存在任意文件读取漏洞](用友U8-Cloud接口FileServlet存在任意文件读取漏洞.md)
-  
   - [用友U8-nc.bs.sm.login2.RegisterServlet存在SQL注入漏洞](用友U8-nc.bs.sm.login2.RegisterServlet存在SQL注入漏洞.md)
-  
   - [用友畅捷通RRATableController存在反序列化漏洞](用友畅捷通RRATableController存在反序列化漏洞.md)
-  
   - [用友时空KSOA-imagefield接口存在SQL注入漏洞](用友时空KSOA-imagefield接口存在SQL注入漏洞.md)
-  
   - [用友NC-Cloud系统runScript存在SQL注入漏洞](用友NC-Cloud系统runScript存在SQL注入漏洞.md)
-  
   - [用友NC接口saveXmlToFIleServlet存在文件上传](用友NC接口saveXmlToFIleServlet存在文件上传.md)
-  
   - [用友U8-Cloud接口FileManageServlet存在反序列漏洞](用友U8-Cloud接口FileManageServlet存在反序列漏洞.md)
-  
   - [用友U8-Cloud接口ServiceDispatcherServlet存在反序列漏洞](用友U8-Cloud接口ServiceDispatcherServlet存在反序列漏洞.md)
-  
   - [用友U9-PatchFile.asmx接口存在任意文件上传漏洞](用友U9-PatchFile.asmx接口存在任意文件上传漏洞.md)
-  
   - [用友NC-Cloud_importhttpscer接口存在任意文件上传漏洞](用友NC-Cloud_importhttpscer接口存在任意文件上传漏洞.md)
-  
   - [用友U8cloud接口MeasureQueryByToolAction存在SQL注入漏洞](用友U8cloud接口MeasureQueryByToolAction存在SQL注入漏洞.md)
-  
   - [用友U8cloud-ExportUfoFormatAction存在SQL注入漏洞](用友U8cloud-ExportUfoFormatAction存在SQL注入漏洞.md)
-  
   - [用友NC接口PaWfm存在sql注入漏洞](用友NC接口PaWfm存在sql注入漏洞.md)
-  
   - [用友NC接口ConfigResourceServlet存在反序列漏洞](用友NC接口ConfigResourceServlet存在反序列漏洞.md)
-  
   - [用友NC-runStateServlet接口存在SQL注入漏洞](用友NC-runStateServlet接口存在SQL注入漏洞.md)
-  
   - [用友NC-workflowImageServlet接口存在sql注入漏洞](用友NC-workflowImageServlet接口存在sql注入漏洞.md)
-  
   - [用友NC_saveImageServlet接口存在文件上传漏洞](用友NC_saveImageServlet接口存在文件上传漏洞.md)
-  
   - [用友crm-swfupload接口存在任意文件上传漏洞](用友crm-swfupload接口存在任意文件上传漏洞.md)
-  
   - [用友NC-ActionServlet存在SQL注入漏洞](用友NC-ActionServlet存在SQL注入漏洞.md)
-  
   - [用友NC-uploadControl接口存在文件上传漏洞](用友NC-uploadControl接口存在文件上传漏洞.md)
-  
   - [用友NC_grouptemplet文件上传漏洞](用友NC_grouptemplet文件上传漏洞.md)
-  
   - [用友NC-avatar接口存在文件上传漏洞](用友NC-avatar接口存在文件上传漏洞.md)
-  
   - [用友U8GRP-fastjson漏洞](用友U8GRP-fastjson漏洞.md)
-  
   - [用友GRP-U8-operOriztion存在SQL注入漏洞](用友GRP-U8-operOriztion存在SQL注入漏洞.md)
-  
   - [用友NC-showcontent接口存在sql注入漏洞](用友NC-showcontent接口存在sql注入漏洞.md)
-  
   - [用友移动系统管理uploadApk接口存在任意文件上传](用友移动系统管理uploadApk接口存在任意文件上传.md)
-  
   - [用友政务财务系统FileDownload存在任意文件读取漏洞](用友政务财务系统FileDownload存在任意文件读取漏洞.md)
-  
   - [畅捷通TPlus-KeyInfoList.aspx存在SQL注入漏洞](畅捷通TPlus-KeyInfoList.aspx存在SQL注入漏洞.md)
-  
   - [畅捷通TPlus-App_Code.ashx存在远程命令执行漏洞](畅捷通TPlus-App_Code.ashx存在远程命令执行漏洞.md)
-  
   - [用友U8-Cloud-TableInputOperServlet存在反序列化漏洞](用友U8-Cloud-TableInputOperServlet存在反序列化漏洞.md)
-  
   - [用友GRP-U8-slbmbygr.jsp存在SQL注入漏洞](用友GRP-U8-slbmbygr.jsp存在SQL注入漏洞.md)
-  
   - [用友GRP-U8-listSelectDialogServlet存在SQL注入](用友GRP-U8-listSelectDialogServlet存在SQL注入.md)
-  
   - [用友GRP-U8-bx_dj_check.jsp存在SQL注入](用友GRP-U8-bx_dj_check.jsp存在SQL注入.md)
-  
   - [用友GRP-U8-obr_zdybxd_check.jsp存在SQL注入](用友GRP-U8-obr_zdybxd_check.jsp存在SQL注入.md)
-  
   - [用友GRP-U8-userInfoWeb存在SQL注入](用友GRP-U8-userInfoWeb存在SQL注入.md)
-  
   - [用友GRP-U8-dialog_moreUser_check.jsp前台SQL注入](用友GRP-U8-dialog_moreUser_check.jsp前台SQL注入.md)
-  
   - [用友GRP-U8-Proxy存在SQL注入漏洞](用友GRP-U8-Proxy存在SQL注入漏洞.md)
-  
   - [用友GRP-U8-sqcxIndex.jsp存在SQL注入漏洞](用友GRP-U8-sqcxIndex.jsp存在SQL注入漏洞.md)
-  
   - [用友GRP-U8-FileUpload任意文件上传](用友GRP-U8-FileUpload任意文件上传.md)
-  
   - [用友GRP-U8-UploadFileData任意文件上传](用友GRP-U8-UploadFileData任意文件上传.md)
-  
   - [用友GRP-U8-ufgovbank存在XXE漏洞](用友GRP-U8-ufgovbank存在XXE漏洞.md)
-  
   - [用友GRP-U8-PayReturnForWcp接口存在XXE漏洞](用友GRP-U8-PayReturnForWcp接口存在XXE漏洞.md)
-  
   - [用友GRP-U8日志泄漏漏洞](用友GRP-U8日志泄漏漏洞.md)
-  
   - [用友GRP-U8-obr_zdybxd_check存在sql注入漏洞](用友GRP-U8-obr_zdybxd_check存在sql注入漏洞.md)
-  
   - [用友畅捷通TPlus-InitServerInfo存在SQL注入漏洞](用友畅捷通TPlus-InitServerInfo存在SQL注入漏洞.md)
-  
   - [用友畅捷通-TPlus-CheckMutex存在sql注入漏洞](用友畅捷通-TPlus-CheckMutex存在sql注入漏洞.md)
-  
   - [用友畅捷通TPlus-DownloadProxy.aspx任意文件读取漏洞](用友畅捷通TPlus-DownloadProxy.aspx任意文件读取漏洞.md)
-  
   - [用友畅捷通CRM-create_site.phpSQL注入漏洞](用友畅捷通CRM-create_site.phpSQL注入漏洞.md)
-  
   - [用友CRM系统uploadfile.php接口存在任意文件上传](用友CRM系统uploadfile.php接口存在任意文件上传.md)
-  
   - [用友NC系统registerServlet接口存在JNDI注入漏洞](用友NC系统registerServlet接口存在JNDI注入漏洞.md)
-  
   - [用友NC系统printBill接口存在任意文件读取漏洞](用友NC系统printBill接口存在任意文件读取漏洞.md)
-  
   - [用友畅捷通TPlus-keyEdit.aspx接口存在SQL注入漏洞](用友畅捷通TPlus-keyEdit.aspx接口存在SQL注入漏洞.md)
-  
   - [用友时空KSOA-linkadd.jsp存在SQL注入漏洞](用友时空KSOA-linkadd.jsp存在SQL注入漏洞.md)
-  
   - [用友U8-CRM客户关系管理系统getemaildata.php任意文件上传漏洞](用友U8-CRM客户关系管理系统getemaildata.php任意文件上传漏洞.md)
-  
   - [用友GRPA++Cloud政府财务云存在任意文件读取漏洞](用友GRPA++Cloud政府财务云存在任意文件读取漏洞.md)
-  
   - [用友NC-bill存在SQL注入漏洞](用友NC-bill存在SQL注入漏洞.md)
-  
   - [用友U8-CRM客户关系管理系统downloadfile.php存在任意文件读取漏洞](用友U8-CRM客户关系管理系统downloadfile.php存在任意文件读取漏洞.md)
-  
   - [用友NC-complainbilldetail存在SQL注入漏洞](用友NC-complainbilldetail存在SQL注入漏洞.md)
-  
   - [用友NC-downTax存在SQL注入漏洞](用友NC-downTax存在SQL注入漏洞.md)
-  
   - [用友U8-Cloud-linkntb.jsp存在SQL注入漏洞(CNVD-C-2023-708748)](用友U8-Cloud-linkntb.jsp存在SQL注入漏洞(CNVD-C-2023-708748).md)
-  
   - [用友U8-Cloud系统XChangeServlet接口存在XXE漏洞](用友U8-Cloud系统XChangeServlet接口存在XXE漏洞.md)
-  
   - [用友nc电子采购信息系统securitycheck存在sql注入](用友nc电子采购信息系统securitycheck存在sql注入.md)
-  
   - [用友NC-warningDetailInfo接口存在SQL注入漏洞](用友NC-warningDetailInfo接口存在SQL注入漏洞.md)
-  
   - [用友NC-downCourseWare任意文件读取](用友NC-downCourseWare任意文件读取.md)
-  
   - [用友-U9-PatchFile.asmx任意文件上传漏洞](用友-U9-PatchFile.asmx任意文件上传漏洞.md)
-  
   - [用友NC-pagesServlet存在SQL注入](用友NC-pagesServlet存在SQL注入.md)
-  
   - [用友智石开PLM-getWorkGroups存在信息泄露漏洞](用友智石开PLM-getWorkGroups存在信息泄露漏洞.md)
-  
   - [用友NC系统linkVoucher存在sql注入漏洞](用友NC系统linkVoucher存在sql注入漏洞.md)
-  
   - [用友u9系统接口GetConnectionString存在信息泄露漏洞](用友u9系统接口GetConnectionString存在信息泄露漏洞.md)
-  
   - [用友U8-Cloud-smartweb2.showRPCLoadingTip.d存在XXE漏洞](用友U8-Cloud-smartweb2.showRPCLoadingTip.d存在XXE漏洞.md)
-  
   - [用友Ufida-ELTextFile.load.d任意文件读取漏洞](用友Ufida-ELTextFile.load.d任意文件读取漏洞.md)
-  
   - [用友NC-oacoSchedulerEvents接口存在sql注入漏洞](用友NC-oacoSchedulerEvents接口存在sql注入漏洞.md)
-  
   - [时空智友ERP系统updater.uploadStudioFile接口处存在任意文件上传漏洞](时空智友ERP系统updater.uploadStudioFile接口处存在任意文件上传漏洞.md)
-  
   - [用友U8-Cloud系统接口MeasQueryConditionFrameAction存在SQL注入漏洞](用友U8-Cloud系统接口MeasQueryConditionFrameAction存在SQL注入漏洞.md)
-  
   - [用友NC-Cloud接口blobRefClassSea存在反序列化漏洞](用友NC-Cloud接口blobRefClassSea存在反序列化漏洞.md)
-  
   - [用友时空KSOA接口com.sksoft.bill.QueryService存在SQL注入漏洞](用友时空KSOA接口com.sksoft.bill.QueryService存在SQL注入漏洞.md)
-  
   - [用友CRM客户关系管理系统import.php存在任意文件上传漏洞](用友CRM客户关系管理系统import.php存在任意文件上传漏洞.md)
-  
   - [用友GRP-A-Cloud政府财务云系统接口selectGlaDatasourcePreview存在SQL注入漏洞](用友GRP-A-Cloud政府财务云系统接口selectGlaDatasourcePreview存在SQL注入漏洞.md)
-  
   - [用友NC-Cloud文件服务器用户登陆绕过漏洞](用友NC-Cloud文件服务器用户登陆绕过漏洞.md)
-  
   - [用友NC系统querygoodsgridbycode接口code参数存在SQL注入漏洞](用友NC系统querygoodsgridbycode接口code参数存在SQL注入漏洞.md)
-  
   - [用友NC系统接口UserAuthenticationServlet存在反序列化RCE漏洞(XVE-2024-18302)](用友NC系统接口UserAuthenticationServlet存在反序列化RCE漏洞(XVE-2024-18302).md)
-  
   - [用友NC及U8cloud系统接口LoggingConfigServlet存在反序列化漏洞(XVE-2024-18151)](用友NC及U8cloud系统接口LoggingConfigServlet存在反序列化漏洞(XVE-2024-18151).md)
+  - [用友时空KSOA系统接口PreviewKPQT.jsp存在SQL注入漏洞](用友时空KSOA系统接口PreviewKPQT.jsp存在SQL注入漏洞.md)
+  - [用友时空KSOA系统接口PrintZP.jsp存在SQL注入漏洞](用友时空KSOA系统接口PrintZP.jsp存在SQL注入漏洞.md)
+  - [用友时空KSOA系统接口PrintZPYG.jsp存在SQL注入漏洞](用友时空KSOA系统接口PrintZPYG.jsp存在SQL注入漏洞.md)
+  - [用友时空KSOA系统接口PrintZPFB.jsp存在SQL注入漏洞](用友时空KSOA系统接口PrintZPFB.jsp存在SQL注入漏洞.md)
+  - [用友时空KSOA系统接口PrintZPZP.jsp存在SQL注入漏洞](用友时空KSOA系统接口PrintZPZP.jsp存在SQL注入漏洞.md)
+  - [用友时空KSOA系统接口fillKP.jsp存在SQL注入漏洞](用友时空KSOA系统接口fillKP.jsp存在SQL注入漏洞.md)
+  - [用友畅捷通-TPlus系统接口ajaxpro存在ssrf漏洞](用友畅捷通-TPlus系统接口ajaxpro存在ssrf漏洞.md)
+  - [用友U9系统DoQuery接口存在SQL注入](用友U9系统DoQuery接口存在SQL注入.md)
 - **致远**
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
   
@@ -1583,3 +1487,18 @@
 
 - Bazarr
   - [Bazarr任意文件读取(CVE-2024-40348)](Bazarr任意文件读取(CVE-2024-40348).md)
+
+- RAISECOM网关设备
+  - [RAISECOM网关设备list_base_config.php存在远程命令执行漏洞](RAISECOM网关设备list_base_config.php存在远程命令执行漏洞.md)
+
+- 拓尔思TRS媒资管理系统
+  - [拓尔思TRS媒资管理系统uploadThumb存在文件上传漏洞](拓尔思TRS媒资管理系统uploadThumb存在文件上传漏洞.md)
+
+- 方天云智慧平台系统
+  - [方天云智慧平台系统GetCompanyItem存在sql注入漏洞](方天云智慧平台系统GetCompanyItem存在sql注入漏洞.md)
+
+- 杭州雄威
+  - [杭州雄威餐厅数字化综合管理平台存在存在绕过认证导致任意密码重置漏洞](杭州雄威餐厅数字化综合管理平台存在存在绕过认证导致任意密码重置漏洞.md)
+
+- eking管理系统
+  - [eking管理易FileUpload接口存在任意文件上传漏洞](eking管理易FileUpload接口存在任意文件上传漏洞.md)
