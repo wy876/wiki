@@ -1,6 +1,42 @@
 # wiki876漏洞文库
 将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
 
+## 2024.09.08 更新漏洞
+
+- [智联云采SRM2.0系统接口autologin身份认证绕过漏洞](./智互联科技有限公司/智联云采SRM2.0系统接口autologin身份认证绕过漏洞.md)
+- [众诚网上订单系统o_sa_order.ashx存在SQL注入漏洞](./众诚软件/众诚网上订单系统o_sa_order.ashx存在SQL注入漏洞.md)
+- [用友NC-Cloud系统show_download_content接口存在SQL注入漏洞](./用友OA/用友NC-Cloud系统show_download_content接口存在SQL注入漏洞.md)
+- [Jenkins-Remoting任意文件读取漏洞(CVE-2024-43044)](./Jenkins/Jenkins-Remoting任意文件读取漏洞(CVE-2024-43044).md)
+- [WordPress插件GiveWP存在反序列漏洞(CVE-2024-5932)](./WordPress/WordPress插件GiveWP存在反序列漏洞(CVE-2024-5932).md)
+- [Apache-OFBiz远程代码执行漏洞(CVE-2024-45195)](./Apache/Apache-OFBiz远程代码执行漏洞(CVE-2024-45195).md)
+- [用友U8-Cloud系统接口MultiRepChooseAction存在SQL注入漏洞](./用友OA/用友U8-Cloud系统接口MultiRepChooseAction存在SQL注入漏洞.md)
+- [用友U8-Cloud系统接口AddTaskDataRightAction存在SQL注入漏洞](./用友OA/用友U8-Cloud系统接口AddTaskDataRightAction存在SQL注入漏洞.md)
+- [热网无线监测系统GetMenuItem存在SQL注入漏洞](./热网无线监测系统/热网无线监测系统GetMenuItem存在SQL注入漏洞.md)
+- [蜂信物联(FastBee)物联网平台download存在任意文件下载漏洞](./蜂信物联/蜂信物联(FastBee)物联网平台download存在任意文件下载漏洞.md)
+- [紫光电子档案管理系统selectFileRemote存在SQL注入漏洞](./紫光电子档案管理系统/紫光电子档案管理系统selectFileRemote存在SQL注入漏洞.md)
+- [中兴ZTE-ZSR-V2系列多业务路由器存在任意文件读取漏洞](./中兴/中兴ZTE-ZSR-V2系列多业务路由器存在任意文件读取漏洞.md)
+- [珠海新华通软件股份有限公司云平台存在登录绕过漏洞](./珠海新华通软件股份有限公司/珠海新华通软件股份有限公司云平台存在登录绕过漏洞.md)
+- [Ivanti-Virtual-Traffic-Manager存在身份验证绕过漏洞(CVE-2024-7593)](./Ivanti/Ivanti-Virtual-Traffic-Manager存在身份验证绕过漏洞(CVE-2024-7593).md)
+- [浪潮云财务系统UploadListFile存在任意文件上传漏洞](./浪潮云/浪潮云财务系统UploadListFile存在任意文件上传漏洞.md)
+- [金和OA-C6系统接口jQueryUploadify.ashx存在SQL注入漏洞](./金和/金和OA-C6系统接口jQueryUploadify.ashx存在SQL注入漏洞.md)
+- [用友U8-Cloud系统接口RepAddToTaskAction存在SQL注入漏洞](./用友OA/用友U8-Cloud系统接口RepAddToTaskAction存在SQL注入漏洞.md)
+- [EOVA未授权doInit接口存在反序列化漏洞](./EOVA/EOVA未授权doInit接口存在反序列化漏洞.md)
+- [短剧影视小程序前台base64_image_content任意文件上传漏洞](./短剧影视小程序/短剧影视小程序前台base64_image_content任意文件上传漏洞.md)
+- [短剧影视小程序前台juhecurl任意文件读取漏洞](./短剧影视小程序/短剧影视小程序前台juhecurl任意文件读取漏洞.md)
+- [短剧影视小程序前台未授权漏洞](./短剧影视小程序/短剧影视小程序前台未授权漏洞.md)
+- [某仿soul欲音社交系统存在任意文件读取漏洞](./社交系统/某仿soul欲音社交系统存在任意文件读取漏洞.md)
+- [朗新天霁智能eHR人力资源管理系统GetE01ByDeptCode存在SQL注入漏洞](./朗新天霁人力资源管理系统/朗新天霁智能eHR人力资源管理系统GetE01ByDeptCode存在SQL注入漏洞.md)
+- [全程云OA接口UploadFile存在任意文件上传漏洞](./全程云OA/全程云OA接口UploadFile存在任意文件上传漏洞)
+- [Nacos任意文件读写漏洞](./Nacos/Nacos任意文件读写漏洞.md)
+- [畅捷通CRM系统newleadset.php接口存在SQL注入漏洞](./用友OA/畅捷通CRM系统newleadset.php接口存在SQL注入漏洞.md)
+- [智能停车管理系统GetPasswayData存在SQL注入漏洞](./智能停车管理系统/智能停车管理系统GetPasswayData存在SQL注入漏洞.md)
+- [某U挖矿质押单语言系统imageupload后台任意文件上传漏洞](./挖矿质押单语言系统/某U挖矿质押单语言系统imageupload后台任意文件上传漏洞.md)
+- [某U挖矿质押单语言系统前台未授权修改管理员密码](./挖矿质押单语言系统/某U挖矿质押单语言系统前台未授权修改管理员密码.md)
+- [某U挖矿质押单语言系统后台phar反序列漏洞](./挖矿质押单语言系统/某U挖矿质押单语言系统后台phar反序列漏洞.md)
+- [SPIP-porte_plume插件存在任意PHP执行漏洞(CVE-2024-7954)](./SPIP/SPIP-porte_plume插件存在任意PHP执行漏洞(CVE-2024-7954).md)
+- [通天星CMSV6车载定位监控平台getAlarmAppealByGuid存在SQL注入漏洞](./通天星/通天星CMSV6车载定位监控平台getAlarmAppealByGuid存在SQL注入漏洞.md)
+- [同鑫eHR人力资源管理系统GetFlowDropDownListItems存在SQL注入漏洞](./同鑫eHR/同鑫eHR人力资源管理系统GetFlowDropDownListItems存在SQL注入漏洞.md)
+
 ## 2024.08.24 新增漏洞
 
 - [汇智ERP系统Upload.aspx存在文件上传漏洞](./汇智ERP/汇智ERP系统Upload.aspx存在文件上传漏洞.md)
