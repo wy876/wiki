@@ -1,5 +1,51 @@
-# wiki876漏洞文库
+# 漏洞文库
 将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
+
+## 2024.09.23 更新漏洞
+
+- [唯徳知识产权管理系统WSFM.asmx接口存在任意文件上传漏洞](./唯徳知识产权管理系统/唯徳知识产权管理系统WSFM.asmx接口存在任意文件上传漏洞.md)
+- [唯徳知识产权管理系统DownloadFileWordTemplate接口存在文件读取漏洞](./唯徳知识产权管理系统/唯徳知识产权管理系统DownloadFileWordTemplate接口存在文件读取漏洞.md)
+- [商混ERP系统接口Operater_Action.aspx存在SQL注入漏洞](./商混ERP/商混ERP系统接口Operater_Action.aspx存在SQL注入漏洞.md)
+- [商混ERP系统接口StockreceiveEdit.aspx存在SQL注入漏洞](./商混ERP/商混ERP系统接口StockreceiveEdit.aspx存在SQL注入漏洞.md)
+- [商混ERP系统接口TaskCarToQueue.aspx存在SQL注入漏洞](./商混ERP/商混ERP系统接口TaskCarToQueue.aspx存在SQL注入漏洞.md)
+- [广联达OA系统接口do.asmx存在任意文件读取漏洞](./广联达OA/广联达OA系统接口do.asmx存在任意文件读取漏洞.md)
+- [广联达OA系统接口do.asmx存在任意文件写入漏洞](./广联达OA/广联达OA系统接口do.asmx存在任意文件写入漏洞.md)
+- [thinkphp最新CVE-2024-44902反序列化漏洞](./thinkphp/thinkphp最新CVE-2024-44902反序列化漏洞.md)
+- [誉龙视音频综合管理平台TimeSyn存在远程命令执行漏洞](./誉龙数字/誉龙视音频综合管理平台TimeSyn存在远程命令执行漏洞.md)
+- [誉龙视音频综合管理平台FindById存在SQL注入漏洞](./誉龙数字/誉龙视音频综合管理平台FindById存在SQL注入漏洞.md)
+- [魅思视频管理系统getOrderStatus存在SQL注入漏洞](./魅思视频管理系统/魅思视频管理系统getOrderStatus存在SQL注入漏洞.md)
+- [AC集中管理平台未授权漏洞](./路由器/AC集中管理平台未授权漏洞.md)
+- [数字通云平台智慧政务workflow存在SQL注入漏洞](./数字通OA/数字通云平台智慧政务workflow存在SQL注入漏洞.md)
+- [用友U8CRM系统接口relobjreportlist.php存在SQL注入漏洞](./用友OA/用友U8CRM系统接口relobjreportlist.php存在SQL注入漏洞.md)
+- [华望云会议管理平台checkDoubleUserNameForAdd存在SQL注入漏洞](./华望云/华望云会议管理平台checkDoubleUserNameForAdd存在SQL注入漏洞.md)
+- [地大信息-基础信息平台GetImg任意文件读取漏洞](./地大信息/地大信息-基础信息平台GetImg任意文件读取漏洞.md)
+- [泛微E-Mobile系统接口cdnfile存在任意文件读取漏洞](./泛微OA/泛微E-Mobile系统接口cdnfile存在任意文件读取漏洞.md)
+- [灵当CRM系统接口getOrderList存在SQL注入漏洞](./灵当CRM/灵当CRM系统接口getOrderList存在SQL注入漏洞.md)
+- [网御VPN安全网关存在任意文件下载漏洞(CNVD-2024-34014)](.//网御星云/网御VPN安全网关存在任意文件下载漏洞(CNVD-2024-34014).md)
+- [Nacos未授权下载配置信息](./Nacos/Nacos未授权下载配置信息.md)
+- [DCN防火墙ping.php存在命令执行漏洞](./DCN/DCN防火墙ping.php存在命令执行漏洞.md)
+- [大华智慧园区系统updateOcx_updateCab.action存在任意文件上传漏洞](./大华/大华智慧园区系统updateOcx_updateCab.action存在任意文件上传漏洞.md)
+- [大华智慧园区系统updateOcx_updateZip.action存在任意文件上传漏洞](./大华/大华智慧园区系统updateOcx_updateZip.action存在任意文件上传漏洞.md)
+- [用友U8-CRM系统chkService.php存在SQL注入漏洞](./用友OA/用友U8-CRM系统chkService.php存在SQL注入漏洞.md)
+- [万户ezOFFICE系统接口filesendcheck_gd.jsp存在SQL注入漏洞](./万户OA/万户ezOFFICE系统接口filesendcheck_gd.jsp存在SQL注入漏洞.md)
+- [Hoverfly系统接口simulation任意文件读取漏洞复现(CVE-2024-45388)](./Hoverfly/Hoverfly系统接口simulation任意文件读取漏洞复现(CVE-2024-45388).md)
+- [NUUO网络视频录像机css_parser.php任意文件读取漏洞](./NUUO/NUUO网络视频录像机css_parser.php任意文件读取漏洞.md)
+- [百易云资产管理运营系统house.save.php存在SQL注入漏洞](./资管云/百易云资产管理运营系统house.save.php存在SQL注入漏洞)
+- [科荣AIO系统接口UtilServlet存在代码执行漏洞](./科荣AIO/科荣AIO系统接口UtilServlet存在代码执行漏洞.md)
+- [imo云办公室接口Imo_DownLoadUI.php任意文件下载漏洞](./Imo云办公/imo云办公室接口Imo_DownLoadUI.php任意文件下载漏洞.md)
+- [顺景ERP管理系统UploadInvtSpFile存在任意文件上传漏洞](./顺景ERP/顺景ERP管理系统UploadInvtSpFile存在任意文件上传漏洞.md)
+- [某二开版海外抢单Shua单系统存在任意用户登录漏洞](./抢单刷单系统/某二开版海外抢单Shua单系统存在任意用户登录漏洞.md)
+- [Array-APV应用交付系统ping_hosts存在任意命令执行漏洞](./Array-APV/Array-APV应用交付系统ping_hosts存在任意命令执行漏洞.md)
+- [哲霖机械ERP接口DownloadInpFile存在任意文件读取漏洞](./哲霖机械ERP/哲霖机械ERP接口DownloadInpFile存在任意文件读取漏洞.md)
+- [章管家list.htm存在SQL注入漏洞](./章管家-印章智慧管理平台/章管家list.htm存在SQL注入漏洞.md)
+- [华望云会议管理平台conflog.inc存在SQL注入漏洞](./华望云/华望云会议管理平台conflog.inc存在SQL注入漏洞.md)
+- [华望云会议管理平台confmanger.inc存在SQL注入漏洞](./华望云/华望云会议管理平台confmanger.inc存在SQL注入漏洞.md)
+- [华望云会议管理平台deptactionlist存在SQL注入漏洞](./华望云/华望云会议管理平台deptactionlist存在SQL注入漏洞.md)
+- [华望云会议管理平台myconflist.in存在SQL注入漏洞](./华望云/华望云会议管理平台myconflist.in存在SQL注入漏洞.md)
+- [华望云会议管理平台recodemanger.inc存在SQL注入漏洞](./华望云/华望云会议管理平台recodemanger.inc存在SQL注入漏洞.md)
+- [华望云会议管理平台recodemangerForUser.inc存在SQL注入漏洞](./华望云/华望云会议管理平台recodemangerForUser.inc存在SQL注入漏洞.md)
+- [华望云会议管理平台syslog.inc存在SQL注入漏洞](./华望云/华望云会议管理平台syslog.inc存在SQL注入漏洞.md)
+- [华望云会议管理平台useractionlist存在SQL注入漏洞](./华望云/华望云会议管理平台useractionlist存在SQL注入漏洞.md)
 
 ## 2024.09.08 更新漏洞
 
