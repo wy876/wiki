@@ -1,6 +1,34 @@
 # 漏洞文库
 将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
 
+## 2024.09.28 更新漏洞
+
+- [DataGear数据可视化分析平台存在SpEL表达式注入漏洞(CVE-2024-37759)](./DataGear/DataGear数据可视化分析平台存在SpEL表达式注入漏洞(CVE-2024-37759).md)
+- [Apache-Seata存在Hessian反序列化漏洞(CVE-2024-22399)](./Apache/Apache-Seata存在Hessian反序列化漏洞(CVE-2024-22399).md)
+- [金和OA系统接口SignUpload.ashx存在SQL注入漏洞](./金和OA/金和OA系统接口SignUpload.ashx存在SQL注入漏洞.md)
+- [用友U8+CRM系统leadconversion.php存在SQL注入漏洞](./用友OA/用友U8+CRM系统leadconversion.php存在SQL注入漏洞.md)
+- [数字通云平台智慧政务setting存在文件上传漏洞](./数字通OA/数字通云平台智慧政务setting存在文件上传漏洞.md)
+- [EDU智慧平台PersonalDayInOutSchoolData存在SQL注入漏洞](./EDU/EDU智慧平台PersonalDayInOutSchoolData存在SQL注入漏洞.md)
+- [EDU某智慧平台ExpDownloadService.aspx任意文件读取漏洞](./EDU/EDU某智慧平台ExpDownloadService.aspx任意文件读取漏洞.md)
+- [百易云资产管理运营系统ticket.edit.php存在SQL注入漏洞](./资管云/百易云资产管理运营系统ticket.edit.php存在SQL注入漏洞.md)
+- [灵当CRM系统接口multipleUpload.php文件上传漏洞](./灵当CRM/灵当CRM系统接口multipleUpload.php文件上传漏洞.md)
+- [天融信运维安全审计系统synRequest存在远程命令执行漏洞](./天融信/天融信运维安全审计系统synRequest存在远程命令执行漏洞.md)
+- [用友畅捷通-TPlus系统接口FileUploadHandler.ashx存在任意文件上传漏洞](./用友OA/用友畅捷通-TPlus系统接口FileUploadHandler.ashx存在任意文件上传漏洞.md)
+- [微信广告任务平台存在任意文件上传漏洞](./微信广告任务平台/微信广告任务平台存在任意文件上传漏洞.md)
+- [万户ezOFFICE系统接口SendFileCheckTemplateEdit.jsp存在SQL注入漏洞](./万户OA/万户ezOFFICE系统接口SendFileCheckTemplateEdit.jsp存在SQL注入漏洞.md)
+- [东方通upload接口存在任意文件上传漏洞](./东方通/东方通upload接口存在任意文件上传漏洞.md)
+- [DataEase存在数据库配置信息暴露漏洞(CVE-2024-30269)](./DataEase/DataEase存在数据库配置信息暴露漏洞(CVE-2024-30269).md)
+- [用友U8CRM系统接口setremindtoold.php存在SQL注入漏洞](./用友OA/用友U8CRM系统接口setremindtoold.php存在SQL注入漏洞.md)
+- [WordPress系统插件LearnPress存在SQL注入漏洞(CVE-2024-8522)](./WordPress/WordPress系统插件LearnPress存在SQL注入漏洞(CVE-2024-8522).md)
+- [苹果IOS端IPA签名工具request_post任意文件读取漏洞](./分发签名系统/苹果IOS端IPA签名工具request_post任意文件读取漏洞.md)
+- [公交IC卡收单管理系统role存在SQL注入漏洞](./公交IC卡收单管理系统/公交IC卡收单管理系统role存在SQL注入漏洞.md)
+- [公交IC卡收单管理系统user存在SQL注入漏洞](./公交IC卡收单管理系统/公交IC卡收单管理系统user存在SQL注入漏洞.md)
+- [公交IC卡收单管理系统bus存在SQL注入漏洞](./公交IC卡收单管理系统/公交IC卡收单管理系统bus存在SQL注入漏洞.md)
+- [公交IC卡收单管理系统line存在SQL注入漏洞](./公交IC卡收单管理系统/公交IC卡收单管理系统line存在SQL注入漏洞.md)
+- [公交IC卡收单管理系统parametercard存在SQL注入漏洞](./公交IC卡收单管理系统/公交IC卡收单管理系统parametercard存在SQL注入漏洞.md)
+- [点企来客服系统存在硬编码漏洞](./点企来客服系统/点企来客服系统存在硬编码漏洞.md)
+- [万户OA-fileUpload.controller任意文件上传漏洞](./万户OA/万户OA-fileUpload.controller任意文件上传漏洞.md)
+
 ## 2024.09.23 更新漏洞
 
 - [唯徳知识产权管理系统WSFM.asmx接口存在任意文件上传漏洞](./唯徳知识产权管理系统/唯徳知识产权管理系统WSFM.asmx接口存在任意文件上传漏洞.md)
