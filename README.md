@@ -1,6 +1,43 @@
 # 漏洞文库
 将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
 
+## 2024.10.17 更新漏洞
+
+- [泛微E-Mobile硬编码口令漏洞(XVE-2024-28095)](./泛微OA/泛微E-Mobile硬编码口令漏洞(XVE-2024-28095).md)
+- [用友U8-CRM系统fillbacksetting.php存在SQL注入漏洞](./用友OA/用友U8-CRM系统fillbacksetting.php存在SQL注入漏洞.md)
+- [Qualitor系统接口processVariavel.php未授权命令注入漏洞(CVE-2023-47253)](./Qualitor/Qualitor系统接口processVariavel.php未授权命令注入漏洞(CVE-2023-47253).md)
+- [中新天达系统存在任意文件读取漏洞](./EDU/中新天达系统存在任意文件读取漏洞.md)
+- [孚盟云系统接口ajaxsenddingdingmessage存在SQL注入漏洞](./孚盟云/孚盟云系统接口ajaxsenddingdingmessage存在SQL注入漏洞.md)
+- [FLIR-AX8热成像仪applyfirmware存在远程命令执行漏洞](./FLIR/FLIR-AX8热成像仪applyfirmware存在远程命令执行漏洞.md)
+- [FLIR-AX8热成像仪download.php存在任意文件读取漏洞](./FLIR/FLIR-AX8热成像仪download.php存在任意文件读取漏洞.md)
+- [FLIR-AX8热成像仪palette.php存在远程命令执行漏洞](./FLIR/FLIR-AX8热成像仪palette.php存在远程命令执行漏洞.md)
+- [FLIR-AX8热成像仪res.php存在远程命令执行漏洞](./FLIR/FLIR-AX8热成像仪res.php存在远程命令执行漏洞.md)
+- [万豪娱乐存在任意文件读取漏洞](./菠菜/万豪娱乐存在任意文件读取漏洞.md)
+- [Cups-Browsed远程命令执行漏洞(CVE-2024-47177)](./cups-browsed/CVE-2024-47177.md)
+- [Spring-Framework路径遍历漏洞(CVE-2024-38816)](./Spring/Spring-Framework路径遍历漏洞(CVE-2024-38816).md)
+- [万户OA系统接口GeneralWeb存在XXE漏洞](./万户OA/万户OA系统接口GeneralWeb存在XXE漏洞.md)
+- [Zimbra远程命令执行漏洞(CVE-2024-45519)](./Zimbra/CVE-2024-45519.md)
+- [pgAdmin4存在反序列化漏洞(CVE-2024-2044)](./pgAdmin/CVE-2024-2044.md)
+- [pgAdmin4敏感信息泄露漏洞(CVE-2024-9014)](./pgAdmin/CVE-2024-9014.md)
+- [CVE-2024-8190](./Ivanti/CVE-2024-8190.md)
+- [CVE-2024-22024](./Ivanti/CVE-2024-22024.md)
+- [微信公众号小说漫画系统前台任意文件写入漏洞](./漫画系统/微信公众号小说漫画系统前台任意文件写入漏洞.md)
+- [微信公众号小说漫画系统fileupload.php存在前台任意文件上传漏洞](./漫画系统/微信公众号小说漫画系统fileupload.php存在前台任意文件上传漏洞.md)
+- [金慧综合管理信息系统LoginBegin.aspx存在SQL注入漏洞](./金慧/金慧综合管理信息系统LoginBegin.aspx存在SQL注入漏洞.md)
+- [大华智慧园区综合管理平台hasSubsystem存在文件上传漏洞](./大华/大华智慧园区综合管理平台hasSubsystem存在文件上传漏洞.md)
+- [Palo-Alto-Expedition经过身份验证的命令注入(CVE-2024-9464)](./PAN-OS/CVE-2024-9464.md)
+- [PAN未授权SQL注入漏洞复现(CVE-2024-9465)](./PAN-OS/PAN未授权SQL注入漏洞复现(CVE-2024-9465).md)
+- [泛微E-Cology系统接口CptInstock1Ajax存在SQL注入漏洞](./泛微OA/泛微E-Cology系统接口CptInstock1Ajax存在SQL注入漏洞.md)
+- [Qualitor系统接口checkAcesso.php任意文件上传漏洞](./Qualitor/Qualitor系统接口checkAcesso.php任意文件上传漏洞.md)
+- [方正畅享全媒体新闻采编系统addOrUpdateOrg存在XXE漏洞](./方正全媒体/方正畅享全媒体新闻采编系统addOrUpdateOrg存在XXE漏洞.md)
+- [同望OA系统接口tooneAssistantAttachement.jsp任意文件读取漏洞](./同望OA/同望OA系统接口tooneAssistantAttachement.jsp任意文件读取漏洞.md)
+- [锐明技术Mangrove系统任意用户创建漏洞](./锐明技术Crocus系统/锐明技术Mangrove系统任意用户创建漏洞.md)
+- [迪普DPTech-VPN任意文件读取(补丁绕过)](./迪普/迪普DPTech-VPN任意文件读取(补丁绕过).md)
+- [众智OA办公系统Login存在SQL注入漏洞](./众智OA/众智OA办公系统Login存在SQL注入漏洞.md)
+- [eking管理易Html5Upload接口存在任意文件上传漏洞](./eking管理易/eking管理易Html5Upload接口存在任意文件上传漏洞.md)
+- [致远OA后台表单导入任意文件写入漏洞](./致远OA/致远OA后台表单导入任意文件写入漏洞.md)
+- [迈普pnsr2900x系统接口DOWNLOAD_FILE任意文件读取漏洞](./迈普多业务融合网关/迈普pnsr2900x系统接口DOWNLOAD_FILE任意文件读取漏洞.md)
+
 ## 2024.09.28 更新漏洞
 
 - [DataGear数据可视化分析平台存在SpEL表达式注入漏洞(CVE-2024-37759)](./DataGear/DataGear数据可视化分析平台存在SpEL表达式注入漏洞(CVE-2024-37759).md)
