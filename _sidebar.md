@@ -57,6 +57,8 @@
   - [CVE-2023-4357-Chrome-XXE漏洞](./Chrome/CVE-2023-4357-Chrome-XXE漏洞.md)
 - Cisco
   - [Cisco-IOS-XE-CVE-2023-20198权限提升漏洞](./Cisco/Cisco-IOS-XE-CVE-2023-20198权限提升漏洞.md)
+- Cloudlog
+  - [Cloudlog系统接口delete_oqrs_line未授权SQL注入漏洞](./Cloudlog/Cloudlog系统接口delete_oqrs_line未授权SQL注入漏洞.md)
 - CloudPanel
   - [CloudPanel-RCE漏洞-CVE-2023-35885](./CloudPanel/CloudPanel-RCE漏洞-CVE-2023-35885.md)
 - ClusterControl
@@ -445,8 +447,10 @@
   - [WordPress插件Bricks-Builder存在RCE漏洞(CVE-2024-25600)](./WordPress/WordPress插件Bricks-Builder存在RCE漏洞(CVE-2024-25600).md)
   - [WordPress插件Dokan-Pro存在SQL注入漏洞](./WordPress/WordPress插件Dokan-Pro存在SQL注入漏洞.md)
   - [WordPress插件GiveWP存在反序列漏洞(CVE-2024-5932)](./WordPress/WordPress插件GiveWP存在反序列漏洞(CVE-2024-5932).md)
+  - [WordPress插件GutenKit存在任意文件上传漏洞(CVE-2024-9234)](./WordPress/WordPress插件GutenKit存在任意文件上传漏洞(CVE-2024-9234).md)
   - [WordPress插件NotificationX存在sql注入漏洞(CVE-2024-1698)](./WordPress/WordPress插件NotificationX存在sql注入漏洞(CVE-2024-1698).md)
   - [WordPress插件Recall存在SQL注入漏洞(CVE-2024-32709)](./WordPress/WordPress插件Recall存在SQL注入漏洞(CVE-2024-32709).md)
+  - [WordPress插件Tainacan存在前台任意文件读取漏洞(CVE-2024-7135)](./WordPress/WordPress插件Tainacan存在前台任意文件读取漏洞(CVE-2024-7135).md)
   - [WordPress的Business-Directory插件存在sql注入漏洞(CVE-2024-4443)](./WordPress/WordPress的Business-Directory插件存在sql注入漏洞(CVE-2024-4443).md)
   - [WordPress系统插件LearnPress存在SQL注入漏洞(CVE-2024-8522)](./WordPress/WordPress系统插件LearnPress存在SQL注入漏洞(CVE-2024-8522).md)
 - WVP视频平台
@@ -476,6 +480,7 @@
   - [万户-ezOFFICE-download_ftp.jsp任意文件下载漏洞](./万户OA/万户-ezOFFICE-download_ftp.jsp任意文件下载漏洞.md)
   - [万户-ezOFFICE-OA-officeserver.jsp文件上传漏洞](./万户OA/万户-ezOFFICE-OA-officeserver.jsp文件上传漏洞.md)
   - [万户ezEIP-success.aspx存在反序列化漏洞](./万户OA/万户ezEIP-success.aspx存在反序列化漏洞.md)
+  - [万户ezEIP企业管理系统productlist.aspx存在SQL注入漏洞](./万户OA/万户ezEIP企业管理系统productlist.aspx存在SQL注入漏洞.md)
   - [万户ezOFFICE-contract_gd.jsp存在SQL注入漏洞](./万户OA/万户ezOFFICE-contract_gd.jsp存在SQL注入漏洞.md)
   - [万户ezOFFICE-wf_printnum.jsp存在SQL注入漏洞](./万户OA/万户ezOFFICE-wf_printnum.jsp存在SQL注入漏洞.md)
   - [万户ezoffice-wpsservlet任意文件上传漏洞](./万户OA/万户ezoffice-wpsservlet任意文件上传漏洞.md)
@@ -609,6 +614,7 @@
   - [公交IC卡收单管理系统parametercard存在SQL注入漏洞](./公交IC卡收单管理系统/公交IC卡收单管理系统parametercard存在SQL注入漏洞.md)
   - [公交IC卡收单管理系统role存在SQL注入漏洞](./公交IC卡收单管理系统/公交IC卡收单管理系统role存在SQL注入漏洞.md)
   - [公交IC卡收单管理系统user存在SQL注入漏洞](./公交IC卡收单管理系统/公交IC卡收单管理系统user存在SQL注入漏洞.md)
+  - [公交IC卡收单管理系统信息泄露漏洞](./公交IC卡收单管理系统/公交IC卡收单管理系统信息泄露漏洞.md)
 - 公众号无限回调系统
   - [公众号无限回调系统接口siteUrl存在SQL注入漏洞](./公众号无限回调系统/公众号无限回调系统接口siteUrl存在SQL注入漏洞.md)
 - 六零导航页
@@ -663,6 +669,7 @@
 - 发卡网系统
   - [HM发卡网反序列化漏洞](./发卡网系统/HM发卡网反序列化漏洞.md)
   - [某自动发卡网alipay_notify.php存在SQL注入漏洞](./发卡网系统/某自动发卡网alipay_notify.php存在SQL注入漏洞.md)
+  - [知识吾爱纯净版小程序系统leibiao存在SQL注入漏洞](./发卡网系统/知识吾爱纯净版小程序系统leibiao存在SQL注入漏洞.md)
   - [鲸发卡系统自动发卡网request_post存在任意文件读取漏洞](./发卡网系统/鲸发卡系统自动发卡网request_post存在任意文件读取漏洞.md)
 - 同享人力管理管理平台
   - [同享人力管理管理平台DownloadFile存在任意文件下载漏洞](./同享人力管理管理平台/同享人力管理管理平台DownloadFile存在任意文件下载漏洞.md)
@@ -700,6 +707,8 @@
 - 多客圈子论坛系统
   - [多客圈子论坛前台SSRF漏洞](./多客圈子论坛系统/多客圈子论坛前台SSRF漏洞.md)
   - [多客圈子论坛系统httpGet任意文件读取漏洞复现](./多客圈子论坛系统/多客圈子论坛系统httpGet任意文件读取漏洞复现.md)
+- 夜莺开源监控系统
+  - [夜莺开源监控系统存在默认用户漏洞](./夜莺开源监控系统/夜莺开源监控系统存在默认用户漏洞.md)
 - 大华
   - [大华DSS-itcBulletin-SQL-注入漏洞](./大华/大华DSS-itcBulletin-SQL-注入漏洞.md)
   - [大华DSS城市安防监控平台login_init.action接口存在Struct2-045命令执行漏洞](./大华/大华DSS城市安防监控平台login_init.action接口存在Struct2-045命令执行漏洞.md)
@@ -724,6 +733,7 @@
   - [大华智慧园区综合管理平台ipms接口存在远程代码执行漏洞](./大华/大华智慧园区综合管理平台ipms接口存在远程代码执行漏洞.md)
   - [大华智慧园区综合管理平台pageJson存在SQL注入漏洞](./大华/大华智慧园区综合管理平台pageJson存在SQL注入漏洞.md)
   - [大华智慧园区综合管理平台user_getUserInfoByUserName.action未授权任意用户密码读取](./大华/大华智慧园区综合管理平台user_getUserInfoByUserName.action未授权任意用户密码读取.md)
+  - [大华智能云网关注册管理平台SQL注入漏洞(CNVD-2024-38747)](./大华/大华智能云网关注册管理平台SQL注入漏洞(CNVD-2024-38747).md)
   - [大华智能物联ICC综合管理平台readpic任意文件读取漏洞](./大华/大华智能物联ICC综合管理平台readpic任意文件读取漏洞.md)
   - [大华智能物联综合管理平台justForTest用户登录漏洞](./大华/大华智能物联综合管理平台justForTest用户登录漏洞.md)
 - 大唐电信
@@ -764,6 +774,7 @@
   - [奥威亚云视频平台UploadFile.aspx存在文件上传漏洞](./奥威亚视频云平台/奥威亚云视频平台UploadFile.aspx存在文件上传漏洞.md)
   - [奥威亚视频云平台VideoCover.aspx接口存在任意文件上传漏洞](./奥威亚视频云平台/奥威亚视频云平台VideoCover.aspx接口存在任意文件上传漏洞.md)
 - 好视通视频会议系统
+  - [好视通云会议upLoad2.jsp接口处存在任意文件上传漏洞](./好视通视频会议系统/好视通云会议upLoad2.jsp接口处存在任意文件上传漏洞.md)
   - [好视通视频会议系统-toDownload.do接口-任意文件读取漏洞](./好视通视频会议系统/好视通视频会议系统-toDownload.do接口-任意文件读取漏洞.md)
 - 孚盟云
   - [孚盟云系统接口ajaxsenddingdingmessage存在SQL注入漏洞](./孚盟云/孚盟云系统接口ajaxsenddingdingmessage存在SQL注入漏洞.md)
@@ -845,6 +856,8 @@
   - [微商城系统goods.php存在SQL注入漏洞](./微商城系统/微商城系统goods.php存在SQL注入漏洞.md)
 - 微擎
   - [微擎-AccountEdit-file-upload文件上传漏洞](./微擎/微擎-AccountEdit-file-upload文件上传漏洞.md)
+- 志华软件
+  - [志华软件openfile.aspx存在任意文件读取漏洞](./志华软件/志华软件openfile.aspx存在任意文件读取漏洞.md)
 - 思福迪运维安全管理系统
   - [思福迪运维安全管理系统RCE漏洞](./思福迪运维安全管理系统/思福迪运维安全管理系统RCE漏洞.md)
 - 悟空CRM
@@ -910,6 +923,7 @@
 - 智互联科技有限公司
   - [智互联(深圳)科技有限公司SRM智联云采系统download存在任意文件读取漏洞](./智互联科技有限公司/智互联(深圳)科技有限公司SRM智联云采系统download存在任意文件读取漏洞.md)
   - [智联云采SRM2.0系统接口autologin身份认证绕过漏洞](./智互联科技有限公司/智联云采SRM2.0系统接口autologin身份认证绕过漏洞.md)
+  - [智联云采testService存在SQL注入漏洞](./智互联科技有限公司/智联云采testService存在SQL注入漏洞.md)
 - 智慧校园(安校易)管理系统
   - [智慧校园(安校易)管理系统FileUpAd.aspx任意文件上传漏洞](./智慧校园(安校易)管理系统/智慧校园(安校易)管理系统FileUpAd.aspx任意文件上传漏洞.md)
   - [智慧校园(安校易)管理系统FileUpProductupdate.aspx任意文件上传漏洞](./智慧校园(安校易)管理系统/智慧校园(安校易)管理系统FileUpProductupdate.aspx任意文件上传漏洞.md)
@@ -1001,6 +1015,7 @@
   - [浙大恩特客户资源管理系统-RegulatePriceAction存在SQL注入](./浙大恩特客户资源管理系统/浙大恩特客户资源管理系统-RegulatePriceAction存在SQL注入.md)
   - [浙大恩特客户资源管理系统-文件上传和sql注入漏洞](./浙大恩特客户资源管理系统/浙大恩特客户资源管理系统-文件上传和sql注入漏洞.md)
   - [浙大恩特客户资源管理系统crmbasicaction任意文件上传](./浙大恩特客户资源管理系统/浙大恩特客户资源管理系统crmbasicaction任意文件上传.md)
+  - [浙大恩特客户资源管理系统Quotegask_editAction存在SQL注入漏洞](./浙大恩特客户资源管理系统/浙大恩特客户资源管理系统Quotegask_editAction存在SQL注入漏洞.md)
 - 浙江宇视
   - [浙江宇视isc网络视频录像机LogReport.php存在远程命令执行漏洞](./浙江宇视/浙江宇视isc网络视频录像机LogReport.php存在远程命令执行漏洞.md)
 - 浪潮云
@@ -1067,6 +1082,8 @@
 - 灵当CRM
   - [灵当CRM系统接口getOrderList存在SQL注入漏洞](./灵当CRM/灵当CRM系统接口getOrderList存在SQL注入漏洞.md)
   - [灵当CRM系统接口multipleUpload.php文件上传漏洞](./灵当CRM/灵当CRM系统接口multipleUpload.php文件上传漏洞.md)
+  - [灵当CRM系统接口pdf.php接口处存在任意文件读取漏洞](./灵当CRM/灵当CRM系统接口pdf.php接口处存在任意文件读取漏洞.md)
+  - [灵当CRM系统接口wechatSession文件上传漏洞](./灵当CRM/灵当CRM系统接口wechatSession文件上传漏洞.md)
 - 点企来客服系统
   - [点企来客服系统getwaitnum存在sql注入漏洞](./点企来客服系统/点企来客服系统getwaitnum存在sql注入漏洞.md)
   - [点企来客服系统存在硬编码漏洞](./点企来客服系统/点企来客服系统存在硬编码漏洞.md)
@@ -1160,6 +1177,7 @@
   - [用友NC系统printBill接口存在任意文件读取漏洞](./用友OA/用友NC系统printBill接口存在任意文件读取漏洞.md)
   - [用友NC系统querygoodsgridbycode接口code参数存在SQL注入漏洞](./用友OA/用友NC系统querygoodsgridbycode接口code参数存在SQL注入漏洞.md)
   - [用友NC系统registerServlet接口存在JNDI注入漏洞](./用友OA/用友NC系统registerServlet接口存在JNDI注入漏洞.md)
+  - [用友NC系统word.docx存在信息泄露漏洞](./用友OA/用友NC系统word.docx存在信息泄露漏洞.md)
   - [用友NC系统接口link存在SQL注入漏洞](./用友OA/用友NC系统接口link存在SQL注入漏洞.md)
   - [用友NC系统接口UserAuthenticationServlet存在反序列化RCE漏洞(XVE-2024-18302)](./用友OA/用友NC系统接口UserAuthenticationServlet存在反序列化RCE漏洞(XVE-2024-18302).md)
   - [用友U8+CRM系统leadconversion.php存在SQL注入漏洞](./用友OA/用友U8+CRM系统leadconversion.php存在SQL注入漏洞.md)
@@ -1297,6 +1315,7 @@
   - [绿盟-NF-下一代防火墙-任意文件上传漏洞](./绿盟/绿盟-NF-下一代防火墙-任意文件上传漏洞.md)
   - [绿盟日志审计系统存在命令执行漏洞](./绿盟/绿盟日志审计系统存在命令执行漏洞.md)
 - 网动统一通信平台
+  - [网动统一通信平台(ActiveUC)接口iactiveEnterMeeting存在信息泄露漏洞](./网动统一通信平台/网动统一通信平台(ActiveUC)接口iactiveEnterMeeting存在信息泄露漏洞.md)
   - [网动统一通信平台ActiveUC存在任意文件下载漏洞](./网动统一通信平台/网动统一通信平台ActiveUC存在任意文件下载漏洞.md)
 - 网康科技
   - [网康NS-ASG应用安全网关singlelogin.php存在SQL注入漏洞](./网康科技/网康NS-ASG应用安全网关singlelogin.php存在SQL注入漏洞.md)
@@ -1365,6 +1384,7 @@
   - [致远互联FE协作办公平台ncsubjass存在SQL注入](./致远OA/致远互联FE协作办公平台ncsubjass存在SQL注入.md)
   - [致远前台任意用户密码修改](./致远OA/致远前台任意用户密码修改.md)
 - 英飞达医学影像存档与通信系统
+  - [英飞达医学WebUserLogin.asmx信息泄露](./英飞达医学影像存档与通信系统/英飞达医学WebUserLogin.asmx信息泄露.md)
   - [英飞达医学影像存档与通信系统Upload.asmx任意文件上传漏洞](./英飞达医学影像存档与通信系统/英飞达医学影像存档与通信系统Upload.asmx任意文件上传漏洞.md)
   - [英飞达医学影像存档与通信系统WebJobUpload任意文件上传漏洞](./英飞达医学影像存档与通信系统/英飞达医学影像存档与通信系统WebJobUpload任意文件上传漏洞.md)
 - 菠菜
