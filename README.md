@@ -1,6 +1,25 @@
 # 漏洞文库
 将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
 
+## 2024.11.16 新增漏洞
+
+- [通达OA前台submenu.php存在SQL注入漏洞(CVE-2024-10600)](./通达OA/通达OA前台submenu.php存在SQL注入漏洞(CVE-2024-10600).md)
+- [D-Link-NAS接口account_mg存在命令执行漏洞(CVE-2024-10914)](./D-Link/D-Link-NAS接口account_mg存在命令执行漏洞(CVE-2024-10914).md)
+- [珠海市安克电子技术有限公司医疗急救管理系统存在SQL注入漏洞](./安克电子技术/珠海市安克电子技术有限公司医疗急救管理系统存在SQL注入漏洞.md)
+- [用友YonBIP高级版yonbiplogin存在任意文件读取漏洞](./用友OA/用友YonBIP高级版yonbiplogin存在任意文件读取漏洞.md)
+- [九思OA接口dl.jsp任意文件读取漏洞](./九思OA/九思OA接口dl.jsp任意文件读取漏洞.md)
+- [东胜物流软件GetDataListCA存在SQL注入漏洞](./东胜物流软件/东胜物流软件GetDataListCA存在SQL注入漏洞.md)
+- [企望制造ERP系统drawGrid.action存在SQL漏洞](./企望制造ERP/企望制造ERP系统drawGrid.action存在SQL漏洞.md)
+- [全新优客API接口管理系统doc存在SQL注入漏洞](./优客API接口管理系统/全新优客API接口管理系统doc存在SQL注入漏洞.md)
+- [海信智能公交企业管理系统OrgInfoMng.aspx存在SQL注入漏洞](./海信智能公交企业管理系统/海信智能公交企业管理系统OrgInfoMng.aspx存在SQL注入漏洞.md)
+- [美团代付微信小程序系统read.php任意文件读取漏洞](./美团代付微信小程序系统/美团代付微信小程序系统read.php任意文件读取漏洞.md)
+- [微信公众号商家收银台小程序系统存在前台SQL注入漏洞](./微信公众号商家收银台小程序系统/微信公众号商家收银台小程序系统存在前台SQL注入漏洞.md)
+- [赛普EAP企业适配管理平台Upload存在任意文件上传漏洞](./赛普/赛普EAP企业适配管理平台Upload存在任意文件上传漏洞.md)
+- [中成科信票务管理系统UploadHandler.ashx任意文件上传漏洞](./中成科信票务管理系统/中成科信票务管理系统UploadHandler.ashx任意文件上传漏洞.md)
+- [帕拉迪堡垒机sslvpnservice.php存在SQL注入漏洞](./帕拉迪堡垒机/帕拉迪堡垒机sslvpnservice.php存在SQL注入漏洞.md)
+- [FortiManager身份认证绕过漏洞(CVE-2024-47575)](./FortiManager/FortiManager身份认证绕过漏洞(CVE-2024-47575).md)
+- [WordPress的Meetup插件身份验证绕过漏洞(CVE-2024-50483)](./WordPress/WordPress的Meetup插件身份验证绕过漏洞(CVE-2024-50483).md)
+
 ## 2024.11.08 更新漏洞
 
 - [Vben-Admin存在硬编码漏洞](./Vben-Admin/Vben-Admin存在硬编码漏洞.md)
